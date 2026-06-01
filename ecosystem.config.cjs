@@ -3,7 +3,7 @@ module.exports = {
     name: 'hermes-blog',
     script: 'node',
     args: 'build/index.js',
-    cwd: '/var/www/hermes-blog',
+    cwd: '/home/miftah/projects/blog/',
     env: {
       NODE_ENV: 'production',
       PORT: 4000,
