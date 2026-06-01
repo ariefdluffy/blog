@@ -1,5 +1,6 @@
 import { readFileSync } from 'fs';
 import { join } from 'path';
+import { getNewsList } from '$lib/server/news.js';
 
 /**
  * Parse articles from /tech/articles/+page.md
@@ -52,64 +53,24 @@ function parseArticles(content) {
 	return articles.slice(0, 5);
 }
 
-/**
- * Parse news from /tech/news/+page.md
- * Structure: ### Title, **Source:** x | **Date:** x, desc, [Read more](url)
- */
-function parseNews(content) {
-	content = content.replace(/\r\n/g, '\n');
-
-	// Remove frontmatter
-	const fmMatch = content.match(/^---\n[\s\S]*?\n---\n([\s\S]*)$/);
-	if (!fmMatch) return [];
-	const body = fmMatch[1];
-
-	const items = [];
-	const regex = /###\s+(.+?)\n/g;
-	let match;
-
-	while ((match = regex.exec(body)) !== null) {
-		const title = match[1].trim();
-		const startIndex = match.index;
-		const chunk = body.substring(startIndex);
-
-		// Extract source
-		const sourceMatch = chunk.match(/\*\*Source:\*\*\s+(.+?)\s+\|/);
-		const source = sourceMatch ? sourceMatch[1].trim() : null;
-
-		// Extract date
-		const dateMatch = chunk.match(/\*\*Date:\*\*\s+(.+?)(?:\n|$)/);
-		const date = dateMatch ? dateMatch[1].trim() : null;
-
-		// Extract link
-		const linkMatch = chunk.match(/\[Read more\]\((.+?)\)/);
-		const link = linkMatch ? linkMatch[1] : null;
-
-		// Extract description (between date line and link)
-		const descMatch = chunk.match(/\*\*Date:\*\*\s+.+?\n\n([\s\S]*?)(?=\[Read more\]|\n---|\n###|\n## |$)/);
-		let description = descMatch
-			? descMatch[1].replace(/\[Read more\]\(.+?\)/, '').replace(/\n/g, ' ').trim()
-			: '';
-		if (description.length > 200) description = description.substring(0, 200) + '...';
-
-		items.push({ title, source, date, link, description });
-	}
-
-	return items.slice(0, 5);
-}
-
 export function load() {
 	try {
 		const base = process.cwd();
 		const articlesPath = join(base, 'src/routes/tech/articles/+page.md');
-		const newsPath = join(base, 'src/routes/tech/news/+page.md');
-
 		const articlesContent = readFileSync(articlesPath, 'utf-8');
-		const newsContent = readFileSync(newsPath, 'utf-8');
+
+		const news = getNewsList(5).map((it) => ({
+			title: it.title,
+			source: it.source,
+			date: it.date,
+			link: `/tech/news/${it.slug}`,
+			sourceUrl: it.sourceUrl,
+			description: it.description
+		}));
 
 		return {
 			articles: parseArticles(articlesContent),
-			news: parseNews(newsContent)
+			news
 		};
 	} catch (err) {
 		console.error('Error loading tech page data:', err);

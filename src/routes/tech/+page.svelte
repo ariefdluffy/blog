@@ -120,8 +120,7 @@
       {#if data.news.length > 0}
         {#each data.news as item}
           <a href={item.link || '#'}
-             class="group block rounded-lg border border-border dark:border-dark-border hover:border-accent/40 hover:bg-bg-alt dark:hover:bg-dark-bg-alt transition-all overflow-hidden"
-             target="_blank" rel="noopener noreferrer">
+             class="group block rounded-lg border border-border dark:border-dark-border hover:border-accent/40 hover:bg-bg-alt dark:hover:bg-dark-bg-alt transition-all overflow-hidden">
             <!-- colored top bar -->
             <div class="h-0.5 bg-accent/40 group-hover:bg-accent transition-colors"></div>
             <div class="p-4">
@@ -148,8 +147,8 @@
               {/if}
               {#if item.link}
                 <div class="flex items-center gap-1 text-[10px] text-text-muted dark:text-dark-text-muted mt-2 opacity-0 group-hover:opacity-100 transition-opacity">
-                  <ExternalLink size={10} />
-                  Buka sumber
+                  <ArrowRight size={10} />
+                  Baca selengkapnya
                 </div>
               {/if}
             </div>
