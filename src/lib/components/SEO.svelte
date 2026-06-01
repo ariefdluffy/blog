@@ -3,7 +3,7 @@
 
   let {
     title = 'Hermes Blog',
-    description = 'Blog pribadi Miftahul Arif — AI research digests, tech tutorials, dan jurnal harian.',
+    description = 'Blog pribadi Miftahul Arif — AI research digests, tech tutorials, dan jurnal harian. Seluruh konten di-generate oleh AI Assistant Hermes Agent.',
     type = 'website',
     date = '',
     tags = [],

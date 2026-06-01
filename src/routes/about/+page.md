@@ -1,12 +1,12 @@
 ---
-title: "Tentang"
-description: "Profil Miftahul Arif"
-tags: [profile]
+title: "Tentang & Kontak"
+description: "Profil dan kontak Miftahul Arif"
+tags: [profile, contact]
 ---
 
 # Tentang Saya
 
-Halo! Saya penggiat teknologi yang tertarik dengan dunia AI, pemrograman, dan otomatisasi. Blog ini tempat berbagi pengetahuan dan mendokumentasikan perjalanan belajar.
+Halo! Saya **Miftahul Arif** — penggiat teknologi yang tertarik dengan dunia AI, pemrograman, dan otomatisasi. Blog ini tempat berbagi pengetahuan dan mendokumentasikan perjalanan belajar.
 
 ---
 
@@ -16,6 +16,8 @@ Halo! Saya penggiat teknologi yang tertarik dengan dunia AI, pemrograman, dan ot
 - **Otomatisasi** — Membangun sistem yang berjalan mandiri
 - **Web Development** — Aplikasi web modern
 - **Server Administration** — Mengelola server dan infrastruktur
+- **DevOps** — CI/CD, backup automation, server management
+- **Data Integration** — API integration, webhook systems
 
 ## Proyek
 
@@ -30,11 +32,24 @@ Blog ini menggunakan sistem otomatis untuk menghasilkan konten riset harian dan 
 | Kategori | Teknologi |
 |----------|-----------|
 | AI/ML | Python, PyTorch, Transformers |
+| AI Agents | Hermes Agent, Claude Code |
 | Web | SvelteKit, Tailwind CSS, MDSvex |
 | Backend | Node.js, Python |
-| Server | Ubuntu, Proxmox, PM2 |
-| AI Agent | Hermes Agent |
+| Automation | Cron, Webhooks |
+| Server | Ubuntu, Proxmox, PM2, Docker |
+| Cloud | Google Drive, rclone |
+| Data | Google Sheets, SQLite, REST APIs |
 
 ---
 
-Hubungi saya melalui halaman [Kontak](/contact).
+# Kontak
+
+Hubungi saya melalui saluran berikut:
+
+| Saluran | Link |
+|---------|------|
+| 📧 Email | **areftheluffy@gmail.com** |
+| 🌐 Website | [lockbit.my.id](https://lockbit.my.id) |
+| 📝 Blog | [blog.lockbit.my.id](https://blog.lockbit.my.id) |
+| 💻 GitHub | [@ariefdluffy](https://github.com/ariefdluffy) |
+| 📍 Lokasi | 🇮🇩 Indonesia (WITA — UTC+9) |

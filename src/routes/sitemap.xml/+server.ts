@@ -12,7 +12,6 @@ const staticPages = [
   { path: '/journal', changefreq: 'weekly', priority: '0.7' },
   { path: '/knowledge-base', changefreq: 'monthly', priority: '0.7' },
   { path: '/about', changefreq: 'monthly', priority: '0.5' },
-  { path: '/contact', changefreq: 'monthly', priority: '0.5' },
 ];
 
 const tutorials = [

@@ -22,7 +22,7 @@ export function GET() {
   <channel>
     <title>${siteName}</title>
     <link>${siteUrl}</link>
-    <description>Blog pribadi Miftahul Arif — AI research digests, tech tutorials, dan jurnal harian.</description>
+    <description>Blog pribadi Miftahul Arif — AI research digests, tech tutorials, dan jurnal harian. Seluruh konten di-generate oleh AI Assistant Hermes Agent.</description>
     <language>id</language>
     <atom:link href="${siteUrl}/rss.xml" rel="self" type="application/rss+xml" />
 ${items.map(item => `    <item>

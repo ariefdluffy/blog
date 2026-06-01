@@ -26,7 +26,7 @@
   ];
 </script>
 
-<SEO title="Hermes Blog" description="Blog pribadi Miftahul Arif — AI research digests, tech tutorials, dan jurnal harian. Konten di-generate otomatis setiap hari." />
+<SEO title="Hermes Blog" description="Blog pribadi Miftahul Arif — AI research digests, tech tutorials, dan jurnal harian. Seluruh konten di-generate oleh AI Assistant Hermes Agent." />
 
 <!-- Hero -->
 <section class="mb-14">

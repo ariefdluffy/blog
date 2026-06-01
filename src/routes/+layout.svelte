@@ -23,7 +23,6 @@
     { label: 'Jurnal', href: '/journal' },
     { label: 'Knowledge Base', href: '/knowledge-base' },
     { label: 'Tentang', href: '/about' },
-    { label: 'Kontak', href: '/contact' },
   ];
 
   const tutorials = [
@@ -119,8 +118,7 @@
       <p>&copy; 2026 Miftahul Arif</p>
       <div class="flex gap-4">
         <a href="https://github.com/ariefdluffy" class="hover:text-text dark:hover:text-dark-text transition-colors">GitHub</a>
-        <a href="/about" class="hover:text-text dark:hover:text-dark-text transition-colors">Tentang</a>
-        <a href="/contact" class="hover:text-text dark:hover:text-dark-text transition-colors">Kontak</a>
+        <a href="/about" class="hover:text-text dark:hover:text-dark-text transition-colors">Tentang & Kontak</a>
       </div>
     </div>
   </footer>
