@@ -1,13 +1,13 @@
 ---
-title: "Daily Research Digest — 2026-04-21"
-description: "Research digest arXiv tanggal 2026-04-21"
+title: "Riset Harian — 2026-04-21"
+description: "Riset harian arXiv tanggal 2026-04-21"
 date: 2026-04-21
 tags: [research, ai, daily-digest]
 ---
 
-# Daily Research Digest — 21 April 2026
+# Riset Harian — 21 April 2026
 
-*Generated automatically by Hermes Agent*
+*Dibuat secara otomatis oleh Hermes Agent*
 
 ---
 

@@ -1,16 +1,16 @@
 ---
-title: "AI News Feed"
+title: "Feed Berita AI"
 description: "Berita AI terkini dari sumber terpercaya"
 tags: [ai, news]
 ---
 
-# AI News Feed
+# Feed Berita AI
 
-*Latest AI news from trusted sources*
+*Berita AI terkini dari sumber terpercaya*
 
 ---
 
-**Setup:** 19 April 2026
+**Pengaturan:** 19 April 2026
 
 Script ini akan otomatis diisi setiap hari jam 08:20 WITA dengan artikel AI terbaru dari:
 - TechCrunch AI
@@ -27,219 +27,216 @@ Hanya artikel dari 2 hari terakhir yang disimpan (filter untuk menghindari dupli
 
 *Updated: 2026-04-24 08:26:09*
 
-### Google updates Workspace to make AI your new office intern
+### Google Memperbarui Workspace, Buat AI Asisten Kantor Baru Anda
 
 **Source:** techcrunch | **Date:** Wed, 22 Apr 2026 22:44:26 +0000
 
-Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system. 
+Google telah memperkenalkan sejumlah fungsi otomatis baru ke dalam Workspace, yang semuanya didukung oleh Workspace Intelligence, sistem AI terbaru mereka.
 
 [Read more](https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/)
 
 ---
 
-### Hands on with X’s new AI-powered custom feeds
+### Uji Coba Feed Kustom Bertenaga AI Terbaru dari X
 
 **Source:** techcrunch | **Date:** Wed, 22 Apr 2026 22:25:53 +0000
 
-X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.
+Timeline kustom bertenaga AI dari X menggantikan Communities, dengan feed yang dikurasi Grok...dan slot iklan baru.
 
 [Read more](https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/)
 
 ---
 
-### Google Cloud launches two new AI chips to compete with Nvidia
+### Google Cloud Meluncurkan Dua Chip AI Baru untuk Bersaing dengan Nvidia
 
 **Source:** techcrunch | **Date:** Wed, 22 Apr 2026 18:39:27 +0000
 
-Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.
+TPU terbaru Google lebih cepat dan lebih murah dari versi sebelumnya. Namun perusahaan masih merangkul Nvidia di cloud-nya — untuk saat ini.
 
 [Read more](https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/)
 
 ---
 
-### Anthropic tested removing Claude Code from the Pro plan
+### Anthropic Menguji Coba Menghapus Claude Code dari Paket Pro
 
 **Source:** arstechnica | **Date:** Wed, 22 Apr 2026 18:34:16 +0000
 
- Untenable demand has Anthropic exploring new approaches to rationing its service.
+Permintaan yang tidak terkendali membuat Anthropic mencari pendekatan baru untuk menjatah layanannya.
  
-
 [Read more](https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/)
 
 ---
 
-### Google turns Chrome into an AI co-worker for the workplace
+### Google Mengubah Chrome menjadi Rekan Kerja AI untuk Tempat Kerja
 
 **Source:** techcrunch | **Date:** Wed, 22 Apr 2026 17:30:00 +0000
 
-Google brings Gemini-powered "auto browse" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.
+Google menghadirkan kemampuan "auto browse" bertenaga Gemini ke Chrome untuk pengguna enterprise, memungkinkan pekerja mengotomatiskan tugas seperti riset, entri data, dan lainnya.
 
 [Read more](https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/)
 
 ---
 
-### Google unveils two new TPUs designed for the "agentic era"
+### Google luncurkan dua TPU baru yang dirancang untuk "era agentic"
 
 **Source:** arstechnica | **Date:** Wed, 22 Apr 2026 17:10:32 +0000
 
- Google's new generation of Tensor AI chips is actually two chips, one for inference and one for training.
+Generasi baru chip AI Tensor Google sebenarnya terdiri dari dua chip, satu untuk inferensi dan satu untuk pelatihan.
  
-
 [Read more](https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/)
 
 ---
 
-### Google makes an interesting choice with its new agent-building tool for enterprises
+### Google buat pilihan menarik dengan alat pembangun agen baru untuk enterprise
 
 **Source:** techcrunch | **Date:** Wed, 22 Apr 2026 16:58:27 +0000
 
-Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.
+Gemini Enterprise Agent Platform mengambil pendekatan menarik: Ditujukan untuk pengguna IT dan teknis.
 
 [Read more](https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/)
 
 ---
 
-### AI Overviews are coming to your Gmail at work
+### AI Overviews akan hadir di Gmail kantor Anda
 
 **Source:** techcrunch | **Date:** Wed, 22 Apr 2026 16:46:10 +0000
 
-The AI Overviews will offer instant summaries pulled from across multiple emails. 
+AI Overviews akan menawarkan ringkasan instan yang diambil dari berbagai email.
 
 [Read more](https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/)
 
 ---
 
-### OpenAI teams up with Infosys to bring AI tools to more businesses
+### OpenAI kerja sama dengan Infosys bawa alat AI ke lebih banyak bisnis
 
 **Source:** techcrunch | **Date:** Wed, 22 Apr 2026 14:22:10 +0000
 
-Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.
+Infosys mengatakan integrasi ini akan digunakan untuk membantu kliennya memodernisasi pengembangan perangkat lunak, mengotomatiskan alur kerja, dan menerapkan sistem AI, dengan fokus awal pada rekayasa perangkat lunak, modernisasi sistem lama, dan DevOps.
 
 [Read more](https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/)
 
 ---
 
-### AI needs a strong data fabric to deliver business value
+### AI butuh data fabric yang kuat untuk memberikan nilai bisnis
 
 **Source:** technologyreview | **Date:** Wed, 22 Apr 2026 10:05:06 +0000
 
-Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;
+Kecerdasan buatan bergerak cepat di enterprise, dari eksperimen hingga penggunaan sehari-hari. Organisasi menerapkan copilot, agen, dan sistem prediktif di seluruh keuangan, rantai pasok, sumber daya manusia, dan operasi pelanggan. Pada akhir 2025, setengah dari perusahaan telah menggunakan AI di setidaknya tiga fungsi bisnis, menurut survei terbaru. Namun seiring AI menjadi&#8230;
 
 [Read more](https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/)
 
 ---
 
-### US accuses China of “industrial-scale” AI theft. China says it’s “slander.”
+### AS tuduh China curi AI skala "industrial". China sebut itu "fitnah."
 
 **Source:** arstechnica | **Date:** Thu, 23 Apr 2026 21:45:10 +0000
 
- Trump-Xi summit may be rocked by US mulling huge sanctions.
+KTT Trump-Xi mungkin terguncang oleh AS yang mempertimbangkan sanksi besar.
  
-
 [Read more](https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/)
 
 ---
 
-### Bret Taylor’s Sierra buys YC-backed AI startup Fragment
+### Sierra milik Bret Taylor beli startup AI Fragment binaan YC
 
 **Source:** techcrunch | **Date:** Thu, 23 Apr 2026 21:00:00 +0000
 
-Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment. 
+Sierra, startup agen layanan pelanggan AI yang didirikan oleh teknolog Bret Taylor, hari ini mengumumkan bahwa mereka telah mengakuisisi startup Prancis Fragment binaan YC.
 
 [Read more](https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/)
 
 ---
 
-### Meet Noscroll, an AI bot that does your doomscrolling for you
+### Kenali Noscroll, bot AI yang lakukan doomscrolling untuk Anda
 
 **Source:** techcrunch | **Date:** Thu, 23 Apr 2026 19:38:25 +0000
 
-Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.
+Noscroll ingin menyembuhkan doomscrolling dengan bot AI yang membaca internet untuk Anda.
 
 [Read more](https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/)
 
 ---
 
-### OpenAI unveils GPT-5.5, claims a "new class of intelligence" at double the API price
+### OpenAI luncurkan GPT-5.5, klaim "kelas kecerdasan baru" dengan harga API dua kali lipat
 
 **Source:** the-decoder | **Date:** Thu, 23 Apr 2026 19:01:07 +0000
 
- OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools.
-The article 
- The US government says it has evidence of large-scale, industrial distillation campaigns targeting American frontier models, with China as the primary culprit. Now the Trump administration is moving to fight back.
-The article 
- Google is open-sourcing the agent prompt behind its AI design tool Stitch. The DESIGN.md format is built to teach AI agents how to follow brand rules.
-The article 
- OpenAI and Microsoft are joining forces to shore up cybersecurity as AI models become a bigger threat. The debate started with Anthropic's Mythos model, which is designed to hunt down security flaws on its own.
-The article 
- A survey of 81,000 Claude users shows that gaining new capabilities ranks slightly ahead of speed as the most common productivity benefit. Creatives, meanwhile, feel both limited and threatened by AI. The sample, however, has a significant bias.
+OpenAI telah mengumumkan GPT-5.5, model agentic yang dirancang untuk menyelesaikan tugas kompleks secara otonom dengan beralih di antara berbagai alat.
+Artikel 
+ Pemerintah AS mengatakan memiliki bukti kampanye distilasi skala besar yang menargetkan model frontier Amerika, dengan China sebagai pelaku utama. Kini pemerintahan Trump bergerak untuk melawan.
+Artikel 
+ Google membuka sumber prompt agen di balik alat desain AI Stitch. Format DESIGN.md dirancang untuk mengajar agen AI cara mengikuti aturan merek.
+Artikel 
+ OpenAI dan Microsoft bergabung untuk memperkuat keamanan siber seiring model AI menjadi ancaman yang lebih besar. Debat dimulai dengan model Mythos dari Anthropic, yang dirancang untuk menemukan celah keamanan sendiri.
+Artikel 
+ Survei terhadap 81.000 pengguna Claude menunjukkan bahwa mendapatkan kemampuan baru menempati peringkat sedikit di atas kecepatan sebagai manfaat produktivitas paling umum. Sementara itu, kalangan kreatif merasa dibatasi dan terancam oleh AI. Namun, sampel tersebut memiliki bias yang signifikan.
 T...
 
 [Read more](https://the-decoder.com/claude-survey-new-capabilities-beat-speed-as-top-ai-benefit-but-creatives-feel-left-behind/)
 
 ---
 
-### Another customer of troubled startup Delve suffered a big security incident
+### Pelanggan lain dari startup bermasalah Delve alami insiden keamanan besar
 
 **Source:** techcrunch | **Date:** Thu, 23 Apr 2026 14:00:00 +0000
 
-TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.
+TechCrunch telah mengonfirmasi bahwa Delve adalah perusahaan kepatuhan yang melakukan sertifikasi keamanan untuk Context AI, startup pelatihan agen AI yang minggu lalu mengungkapkan insiden keamanan.
 
 [Read more](https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/)
 
 ---
 
-### OpenAI releases open-source model that strips personal data from text
+### OpenAI rilis model open-source yang hapus data pribadi dari teks
 
 **Source:** the-decoder | **Date:** Thu, 23 Apr 2026 13:53:13 +0000
 
- OpenAI has released Privacy Filter, an open-source model designed to detect and redact personal data in text.
-The article OpenAI releases open-so...
+OpenAI telah merilis Privacy Filter, model open-source yang dirancang untuk mendeteksi dan menyunting data pribadi dalam teks.
+Artikel OpenAI rilis open-so...
 
 [Read more](https://the-decoder.com/openai-releases-open-source-model-that-strips-personal-data-from-text/)
 
 ---
 
-### Researchers warn US politics is repeating its ChatGPT mistake with world models
+### Peneliti peringatkan politik AS ulangi kesalahan ChatGPT dengan world models
 
 **Source:** the-decoder | **Date:** Thu, 23 Apr 2026 13:33:58 +0000
 
- The next phase of AI development is moving beyond text and into the physical world. Researchers warn that US policymakers don't yet grasp the scale of what's coming, while China is already pulling ahead in robotics.
-The article 
- 75 percent of new code at Google is now generated by AI and then reviewed by human developers, the company says.
-The article Google says 75 percent ...
+Fase berikutnya dari pengembangan AI bergerak melampaui teks dan masuk ke dunia fisik. Peneliti memperingatkan bahwa pembuat kebijakan AS belum memahami skala apa yang akan datang, sementara China sudah unggul dalam robotika.
+Artikel 
+ 75 persen kode baru di Google kini dihasilkan oleh AI dan kemudian ditinjau oleh pengembang manusia, kata perusahaan.
+Artikel Google sebut 75 persen ...
 
 [Read more](https://the-decoder.com/google-says-75-percent-of-its-new-code-is-now-written-by-ai/)
 
 ---
 
-### Sony AI builds the first robot to reach expert level in a sport
+### Sony AI bangun robot pertama capai level ahli dalam olahraga
 
 **Source:** the-decoder | **Date:** Thu, 23 Apr 2026 13:12:13 +0000
 
- Sony's table tennis robot "Ace" is the first robot to reach expert-level performance in a sport, according to the company.
-The article Sony AI build...
+Robot tenis meja Sony "Ace" adalah robot pertama yang mencapai performa level ahli dalam olahraga, menurut perusahaan.
+Artikel Sony AI bangun...
 
 [Read more](https://the-decoder.com/sony-ai-builds-the-first-robot-to-reach-expert-level-in-a-sport/)
 
 ---
 
-### OpenAI says its new ChatGPT for Clinicians outperforms doctors on clinical tasks even when they have unlimited time and web access
+### OpenAI klaim ChatGPT for Clinicians baru ungguli dokter dalam tugas klinis bahkan dengan waktu dan akses web tak terbatas
 
 **Source:** the-decoder | **Date:** Thu, 23 Apr 2026 10:21:15 +0000
 
- OpenAI is rolling out ChatGPT for Clinicians, a free version of its chatbot for medical professionals. A new benchmark claims GPT-5.4 beats human doctors on clinical tasks, even when those doctors have unlimited time and internet access.
-The article ...
+OpenAI meluncurkan ChatGPT for Clinicians, versi gratis dari chatbot untuk profesional medis. Tolok ukur baru mengklaim GPT-5.4 mengalahkan dokter manusia dalam tugas klinis, bahkan ketika dokter tersebut memiliki waktu dan akses internet tak terbatas.
+Artikel ...
 
 [Read more](https://the-decoder.com/openai-says-its-new-chatgpt-for-clinicians-outperforms-doctors-on-clinical-tasks-even-when-they-have-unlimited-time-and-web-access/)
 
 ---
 
-### India’s app market is booming — but global platforms are capturing most of the gains
+### Pasar aplikasi India booming — namun platform global raih sebagian besar keuntungan
 
 **Source:** techcrunch | **Date:** Thu, 23 Apr 2026 04:38:45 +0000
 
-Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.
+Aplikasi non-game, dipimpin oleh streaming dan AI, mendorong pertumbuhan, meskipun belanja per pengguna India tertinggal dari negara lain.
 
 [Read more](https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/)
 
@@ -249,7 +246,7 @@ Non-gaming apps, led by streaming and AI, are driving growth, even as India's sp
 
 *Updated: 2026-04-25 08:20:30*
 
-### How to Use Transformers.js in a Chrome Extension
+### Cara Menggunakan Transformers.js di Ekstensi Chrome
 
 **Source:** huggingface.co | **Date:** Thu, 23 Apr 2026 00:00:00 GMT
 
@@ -257,84 +254,83 @@ Non-gaming apps, led by streaming and AI, are driving growth, even as India's sp
 
 ---
 
-### Google will invest as much as $40 billion in Anthropic
+### Google akan investasikan hingga $40 miliar di Anthropic
 
 **Source:** arstechnica | **Date:** Fri, 24 Apr 2026 22:05:45 +0000
 
- This follows a similar, but smaller, investment by Amazon just days ago.
+Ini menyusul investasi serupa, namun lebih kecil, oleh Amazon beberapa hari lalu.
  
-
 [Read more](https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/)
 
 ---
 
-### Three reasons why DeepSeek’s new model matters
+### Tiga alasan mengapa model baru DeepSeek penting
 
 **Source:** technologyreview | **Date:** Fri, 24 Apr 2026 21:40:58 +0000
 
-On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available&#8230;
+Pada hari Jumat, perusahaan AI China DeepSeek merilis pratinjau V4, model flagship baru yang telah lama ditunggu. Menariknya, model ini dapat memproses prompt yang jauh lebih panjang dari generasi sebelumnya, berkat desain baru yang membantunya menangani teks dalam jumlah besar secara lebih efisien. Seperti model DeepSeek sebelumnya, V4 bersifat open source, artinya tersedia&#8230;
 
 [Read more](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/)
 
 ---
 
-### ComfyUI hits `500M valuation as creators seek more control over AI-generated media
+### ComfyUI raih valuasi $500M seiring kreator cari kendali lebih atas media buatan AI
 
 **Source:** techcrunch | **Date:** Fri, 24 Apr 2026 19:49:35 +0000
 
-ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised `30 million.
+ComfyUI, yang alatnya memberi kreator kendali lebih atas pembuatan gambar, video, dan audio AI, baru saja mengumpulkan $30 juta.
 
 [Read more](https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/)
 
 ---
 
-### OpenAI's chief scientist says AI progress has been "surprisingly slow" and promises big leaps ahead
+### Kepala ilmuwan OpenAI sebut kemajuan AI "sangat lambat" dan janjikan lompatan besar ke depan
 
 **Source:** the-decoder | **Date:** Fri, 24 Apr 2026 18:31:15 +0000
 
- OpenAI has released GPT-5.5, and the company's leadership says the real breakthroughs are still ahead. Chief scientist Jakub Pachocki expects "extremely significant improvements" in the medium term, calling recent AI progress "surpr...
+OpenAI telah merilis GPT-5.5, dan pimpinan perusahaan mengatakan terobosan sesungguhnya masih di depan. Kepala ilmuwan Jakub Pachocki mengharapkan "peningkatan yang sangat signifikan" dalam jangka menengah, menyebut kemajuan AI baru-baru ini "mengejutkan lambat"...
 
 [Read more](https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/)
 
 ---
 
-### Google to invest up to `40B in Anthropic in cash and compute
+### Google investasikan hingga $40B di Anthropic dalam bentuk tunai dan komputasi
 
 **Source:** techcrunch | **Date:** Fri, 24 Apr 2026 18:00:03 +0000
 
-Google plans up to `40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.
+Google berencana investasi hingga $40B di Anthropic seiring pesaing AI berlomba mengamankan kapasitas komputasi besar, menyusul rilis terbatas model Mythos yang kuat dan berfokus pada keamanan siber.
 
 [Read more](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/)
 
 ---
 
-### Marked-up Mac minis flood eBay amid shortages driven by AI
+### Mac mini markup banjiri eBay di tengah kelangkaan akibat AI
 
 **Source:** techcrunch | **Date:** Fri, 24 Apr 2026 16:42:19 +0000
 
-Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.
+Mac mini Apple yang habis terjual memicu daftar eBay dengan harga markup seiring lonjakan permintaan untuk desktop ringkas, yang kini disukai untuk menjalankan model dan alat AI lokal.
 
 [Read more](https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/)
 
 ---
 
-### GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API
+### GPT-5.5 puncaki tolok ukur tapi masih sering berhalusinasi dan biaya API naik 20 persen
 
 **Source:** the-decoder | **Date:** Fri, 24 Apr 2026 15:20:49 +0000
 
- GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.
-The article 
- Just months after founder Jonas Andrulis was pushed out, Canadian AI company Cohere is taking over Aleph Alpha - once hailed as Germany's answer to OpenAI. The Schwarz Group is putting $600 million into the deal.
-The article 
- Users complained about declining quality in Claude Code. Anthropic identified and fixed three separate sources of error. The company promises stricter quality controls going forward.
-The article 
- Chinese AI lab Deepseek has released V4-Pro and V4-Flash, two new models with up to 1.6 trillion parameters and a one-million-token context window. Pricing sits well below OpenAI, Google, and Anthropic. The accompanying technical paper also revea...
+GPT-5.5 mendorong OpenAI kembali ke puncak tolok ukur AI. Harganya naik, namun masih memberikan nilai terbaik di antara model proprietary.
+Artikel 
+ Hanya beberapa bulan setelah pendiri Jonas Andrulis dipecat, perusahaan AI Kanada Cohere mengambil alih Aleph Alpha - yang pernah disebut sebagai jawaban Jerman untuk OpenAI. Schwarz Group menginvestasikan $600 juta dalam kesepakatan ini.
+Artikel 
+ Pengguna mengeluhkan penurunan kualitas Claude Code. Anthropic mengidentifikasi dan memperbaiki tiga sumber kesalahan terpisah. Perusahaan menjanjikan kontrol kualitas yang lebih ketat ke depannya.
+Artikel 
+ Laboratorium AI China Deepseek telah merilis V4-Pro dan V4-Flash, dua model baru dengan hingga 1,6 triliun parameter dan jendela konteks satu juta token. Harga jauh di bawah OpenAI, Google, dan Anthropic. Makalah teknis yang menyertainya juga mengungka...
 
 [Read more](https://the-decoder.com/as-agentic-ai-pushes-rivals-to-raise-prices-and-cap-usage-deepseek-ships-a-good-enough-model-for-almost-nothing/)
 
 ---
 
-### DeepSeek-V4: a million-token context that agents can actually use
+### DeepSeek-V4: konteks sejuta token yang benar-benar bisa digunakan agen
 
 **Source:** huggingface.co | **Date:** Fri, 24 Apr 2026 00:00:00 GMT
 
@@ -346,169 +342,169 @@ The article
 
 *Updated: 2026-04-26 08:21:07*
 
-### Anthropic created a test marketplace for agent-on-agent commerce
+### Anthropic ciptakan pasar uji coba untuk perdagangan agen-ke-agen
 
 **Source:** techcrunch | **Date:** Sat, 25 Apr 2026 21:43:37 +0000
 
-In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.
+Dalam eksperimen terbaru, Anthropic menciptakan pasar baris tempat agen AI mewakili pembeli dan penjual, melakukan transaksi nyata untuk barang nyata dengan uang nyata.
 
 [Read more](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)
 
 ---
 
-### OpenAI CEO apologizes to Tumbler Ridge community
+### CEO OpenAI minta maaf kepada komunitas Tumbler Ridge
 
 **Source:** techcrunch | **Date:** Sat, 25 Apr 2026 17:17:56 +0000
 
-In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.
+Dalam surat kepada warga Tumbler Ridge, Kanada, CEO OpenAI Sam Altman mengatakan dia "sangat menyesal" bahwa perusahaannya gagal memberi tahu penegak hukum tentang tersangka dalam penembakan massal baru-baru ini.
 
 [Read more](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/)
 
 ---
 
-### Why Cohere is merging with Aleph Alpha
+### Mengapa Cohere bergabung dengan Aleph Alpha
 
 **Source:** techcrunch | **Date:** Sat, 25 Apr 2026 16:00:00 +0000
 
-Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.
+Startup AI Kanada Cohere mengambil alih Aleph Alpha yang berbasis di Jerman dengan dukungan dari pemilik Lidl, Schwarz Group. Dengan restu pemerintah mereka, perusahaan-perusahaan ini berniat menawarkan alternatif berdaulat bagi enterprise di lanskap AI yang didominasi pemain Amerika.
 
 [Read more](https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/)
 
 ---
 
-### US programmer job growth nearly halved since ChatGPT launched, Fed study finds
+### Pertumbuhan pekerjaan programmer AS hampir setengah sejak ChatGPT diluncurkan, studi Fed temukan
 
 **Source:** the-decoder | **Date:** Sat, 25 Apr 2026 12:44:29 +0000
 
- Programmers are among the professional groups whose everyday lives have changed the most as a result of generative ...
+Programmer termasuk kelompok profesional yang kehidupan sehari-harinya paling berubah akibat AI generatif ...
 
 [Read more](https://the-decoder.com/us-programmer-job-growth-nearly-halved-since-chatgpt-launched-fed-study-finds/)
 
 ---
 
-### Anthropic says stronger AI models cut better deals, and the losers don't even notice
+### Anthropic: model AI lebih kuat buat kesepakatan lebih baik, yang kalah tak sadar
 
 **Source:** the-decoder | **Date:** Sat, 25 Apr 2026 10:18:31 +0000
 
- Anthropic let 69 AI agents trade on behalf of employees in an internal marketplace for a week. Stronger models scored better deals, and the people stuck with weaker agents never noticed. If AI models start handling real transactions for humans, these ...
+Anthropic membiarkan 69 agen AI berdagang atas nama karyawan di pasar internal selama seminggu. Model yang lebih kuat mendapatkan kesepakatan lebih baik, dan orang-orang yang terjebak dengan agen lemah tidak pernah menyadarinya. Jika model AI mulai menangani transaksi nyata untuk manusia, ini ...
 
 [Read more](https://the-decoder.com/anthropic-says-stronger-ai-models-cut-better-deals-and-the-losers-dont-even-notice/)
 
 ---
 
-### The UAE wants half its government run by autonomous AI agents within two years
+### UEA ingin setengah pemerintahannya dijalankan agen AI otonom dalam dua tahun
 
 **Source:** the-decoder | **Date:** Sat, 25 Apr 2026 09:08:57 +0000
 
- The United Arab Emirates plans to shift half of its government operations to autonomous AI systems within two years.
-The article The UAE...
+Uni Emirat Arab berencana mengalihkan setengah operasi pemerintahannya ke sistem AI otonom dalam dua tahun.
+Artikel UEA...
 
 [Read more](https://the-decoder.com/the-uae-wants-half-its-government-run-by-autonomous-ai-agents-within-two-years/)
 
 ---
 
-### Google pours up to $40 billion into ChatGPT rival Anthropic
+### Google gelontorkan hingga $40 miliar ke Anthropic, saingan ChatGPT
 
 **Source:** the-decoder | **Date:** Sat, 25 Apr 2026 08:26:11 +0000
 
- Google is investing up to 40 billion dollars in Anthropic. Together with Amazon's pledge of 25 billion dollars, up to 65 billion dollars will flow into the AI company behind Claude in just a few weeks.
-The article 
- OpenAI has once again retired its dedicated Codex coding model, folding its capabilities directly into the main model. GPT-5.5 promises stronger agentic coding and lower token usage, OpenAI says.
-The article 
- OpenAI says developers shouldn't carry over old prompts for GPT-5.5. Instead, start minimal and from scratch. Role definitions, which some had written off as unnecessary, are back at the front of the framework.
-The article 
- A new benchmark puts top models like GPT-5.4 and Claude Opus 4.6 to work on the kinds of tasks junior investment banker...
+Google menginvestasikan hingga 40 miliar dolar di Anthropic. Bersama dengan komitmen Amazon sebesar 25 miliar dolar, hingga 65 miliar dolar akan mengalir ke perusahaan AI di balik Claude hanya dalam beberapa minggu.
+Artikel 
+ OpenAI kembali menghentikan model coding khusus Codex, menggabungkan kemampuannya langsung ke model utama. GPT-5.5 menjanjikan coding agentic yang lebih kuat dan penggunaan token yang lebih rendah, kata OpenAI.
+Artikel 
+ OpenAI mengatakan pengembang tidak boleh membawa prompt lama untuk GPT-5.5. Sebaliknya, mulai dari yang minimal dan dari awal. Definisi peran, yang sempat dianggap tidak perlu, kembali ke posisi depan framework.
+Artikel 
+ Tolok ukur baru menempatkan model teratas seperti GPT-5.4 dan Claude Opus 4.6 untuk mengerjakan jenis tugas yang biasa dilakukan analis bank investasi junior...
 
 [Read more](https://the-decoder.com/500-investment-bankers-review-ai-outputs-and-find-none-ready-for-client-delivery/)
 
 ---
 
-### Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant
+### Survei temukan pengguna aktif mingguan Claude di AS jauh lebih kaya dari pengguna asisten AI saingan
 
 **Source:** the-decoder | **Date:** Sun, 26 Apr 2026 08:50:02 +0000
 
- A survey shows Claude users earn significantly more than users of other AI services. Here's how income breaks down across C...
+Survei menunjukkan pengguna Claude menghasilkan pendapatan signifikan lebih tinggi dibanding pengguna layanan AI lain. Berikut rincian pendapatan di seluruh...
 
 [Read more](https://the-decoder.com/survey-finds-claudes-weekly-active-users-in-the-us-skew-far-wealthier-than-any-rival-ai-assistant/)
 
 ---
 
-### AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue
+### Agen AI tidak gantikan rekayasa perangkat lunak tapi perluas jauh melampaui kode, kata peneliti
 
 **Source:** the-decoder | **Date:** Sun, 26 Apr 2026 08:12:17 +0000
 
- The popular story goes that AI agents are swallowing up more programming work and developers are headed for obsolescence. A new paper from researchers at Chalmers University of Technology and the Volvo Group argues that view misses the mark.
-Th...
+Cerita populer mengatakan bahwa agen AI menelan lebih banyak pekerjaan pemrograman dan pengembang menuju keusangan. Makalah baru dari peneliti di Chalmers University of Technology dan Volvo Group berargumen bahwa pandangan tersebut meleset.
+Pe...
 
 [Read more](https://the-decoder.com/ai-agents-arent-replacing-software-engineering-but-expanding-it-far-beyond-code-researchers-argue/)
 
 ---
 
-### GPT-5.5 tops benchmarks but still hallucinates frequently at a 20 percent higher API cost
+### GPT-5.5 puncaki tolok ukur tapi masih sering berhalusinasi dengan biaya API 20 persen lebih tinggi
 
 **Source:** the-decoder | **Date:** Sat, 25 Apr 2026 16:50:49 +0000
 
- GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.
-The article 
- OpenAI is free to distribute its products through any cloud provider, Microsoft loses its exclusive license to OpenAI's technology, and the controversial AGI clause is gone.
-The article 
- OpenAI's CEO has laid out five guiding principles for the company's future work. They also serve as a rationale for some of OpenAI's more unconventional business moves.
-The article 
- Meta has signed a deal with startup Overview Energy for up to 1 gigawatt of space-based solar power. The only catch: the technology doesn't exist yet.
-The article 
- Beijing orders the unwinding of the already completed acquisition. The move comes amid intensifying technological rivalry between the US and China.
-The article 
- ASML plans to significantly increase production of its EUV lithography machines to keep pace with growing demand for AI chips, the Wall Street Journal reports.
-The article 
- According to analyst Ming-Chi Kuo, OpenAI is working with MediaTek and Qualcomm on custom smartphone processors, with Luxshare as the exclusive partner for system design and manufacturing.
-The article 
- "Talkie" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels.
-The article 
- Mistral AI has rolled out Workflows, an orchestration layer that helps companies turn AI-powered processes into production-ready systems.
-The article 
- A large-scale analysis of websites from the Internet Archive shows just how much AI text...
+GPT-5.5 mendorong OpenAI kembali ke puncak tolok ukur AI. Harganya naik, namun masih memberikan nilai terbaik di antara model proprietary.
+Artikel 
+ OpenAI bebas mendistribusikan produknya melalui penyedia cloud mana pun, Microsoft kehilangan lisensi eksklusif untuk teknologi OpenAI, dan klausul AGI yang kontroversial telah dihapus.
+Artikel 
+ CEO OpenAI telah menetapkan lima prinsip panduan untuk pekerjaan perusahaan ke depan. Ini juga berfungsi sebagai alasan untuk beberapa langkah bisnis OpenAI yang tidak konvensional.
+Artikel 
+ Meta telah menandatangani kesepakatan dengan startup Overview Energy hingga 1 gigawatt tenaga surya berbasis ruang angkasa. Satu-satunya masalah: teknologinya belum ada.
+Artikel 
+ Beijing memerintahkan pembatalan akuisisi yang sudah selesai. Langkah ini terjadi di tengah persaingan teknologi yang meningkat antara AS dan China.
+Artikel 
+ ASML berencana meningkatkan produksi mesin litografi EUV secara signifikan untuk mengimbangi permintaan chip AI yang terus bertambah, lapor Wall Street Journal.
+Artikel 
+ Menurut analis Ming-Chi Kuo, OpenAI bekerja dengan MediaTek dan Qualcomm pada prosesor smartphone khusus, dengan Luxshare sebagai mitra eksklusif untuk desain sistem dan manufaktur.
+Artikel 
+ "Talkie" adalah model bahasa 13B parameter yang dilatih hanya pada teks yang ditulis sebelum 1931. Model ini meragukan perang dunia kedua akan terjadi dan membayangkan 2026 sebagai dunia kapal uap, rel kereta api, dan novel murah.
+Artikel 
+ Mistral AI telah meluncurkan Workflows, lapisan orkestrasi yang membantu perusahaan mengubah proses bertenaga AI menjadi sistem siap produksi.
+Artikel 
+ Analisis skala besar situs web dari Internet Archive menunjukkan seberapa banyak teks AI...
 
 [Read more](https://the-decoder.com/researchers-find-ai-text-is-making-the-internet-more-uniform-and-weirdly-cheerful/)
 
 ---
 
-### Google signs AI deal with the Pentagon, ignoring protest from over 600 employees
+### Google tandatangani kesepakatan AI dengan Pentagon, abaikan protes lebih dari 600 karyawan
 
 **Source:** the-decoder | **Date:** Tue, 28 Apr 2026 11:10:05 +0000
 
- Despite an open letter from hundreds of employees, Google has signed a contract giving the U.S. Department of Defense access to its AI models for classified work. Legal experts say the contract's safety clauses aren't legally bindi...
+Meskipun ada surat terbuka dari ratusan karyawan, Google telah menandatangani kontrak yang memberikan akses ke model AI-nya kepada Departemen Pertahanan AS untuk pekerjaan rahasia. Pakar hukum mengatakan klausul keamanan kontrak tersebut tidak mengikat secara hukum...
 
 [Read more](https://the-decoder.com/google-signs-ai-deal-with-the-pentagon-ignoring-protest-from-over-600-employees/)
 
 ---
 
-### OpenAI misses revenue targets as Anthropic and Google close in
+### OpenAI gagal capai target pendapatan saat Anthropic dan Google mendekat
 
 **Source:** the-decoder | **Date:** Tue, 28 Apr 2026 09:29:03 +0000
 
- OpenAI fell short of internal revenue goals for the first quarter of 2026. Meanwhile, pressure from competitors like Anthropic and Google is mounting, and tensions inside the company over massive spending commitments are growing.
-The article 
- Starting June 1, 2026, GitHub will charge Copilot users based on actual usage instead of premium request counts.
-The article 
- A NewsGuard audit found that Mistral's Le Chat repeats state-sponsored disinformation about the Iran war ...
+OpenAI gagal mencapai target pendapatan internal untuk kuartal pertama 2026. Sementara itu, tekanan dari pesaing seperti Anthropic dan Google meningkat, dan ketegangan internal perusahaan atas komitmen pengeluaran besar semakin tumbuh.
+Artikel 
+ Mulai 1 Juni 2026, GitHub akan menagih pengguna Copilot berdasarkan penggunaan aktual, bukan jumlah permintaan premium.
+Artikel 
+ Audit NewsGuard menemukan bahwa Le Chat milik Mistral mengulangi disinformasi yang disponsori negara tentang perang Iran ...
 
 [Read more](https://the-decoder.com/mistrals-le-chat-spreads-iran-war-disinformation-in-60-percent-of-leading-prompts/)
 
 ---
 
-### Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat
+### Google Gemini kini hasilkan dokumen, spreadsheet, dan presentasi langsung di dalam chat
 
 **Source:** the-decoder | **Date:** Wed, 29 Apr 2026 17:18:57 +0000
 
- Google Gemini now creates documents directly in the chat, from PDFs and Word files to Excel spreadsheets.
-The article 
- AI models have jumped from grade-school arithmetic to olympiad-level and research mathematics in only two years. In the OpenAI Podcast, OpenAI researchers Sebastian Bubeck and Ernest Ryu explain why math has become the key test on the road to artificia...
+Google Gemini kini membuat dokumen langsung di chat, dari PDF dan file Word hingga spreadsheet Excel.
+Artikel 
+ Model AI telah melompat dari aritmatika tingkat sekolah dasar ke matematika level olimpiade dan riset hanya dalam dua tahun. Dalam OpenAI Podcast, peneliti OpenAI Sebastian Bubeck dan Ernest Ryu menjelaskan mengapa matematika menjadi ujian kunci di jalan menuju kecerdasan buatan...
 
 [Read more](https://the-decoder.com/openai-researchers-explain-why-math-is-the-road-to-agi/)
 
 ---
 
-### Granite 4.1 LLMs: How They’re Built
+### Granite 4.1 LLM: Bagaimana Mereka Dibangun
 
 **Source:** huggingface.co | **Date:** Wed, 29 Apr 2026 15:01:48 GMT
 
@@ -516,55 +512,55 @@ The article
 
 ---
 
-### White House moves to restore Anthropic access after Pentagon standoff
+### Gedung Putih bergerak pulihkan akses Anthropic setelah kebuntuan dengan Pentagon
 
 **Source:** the-decoder | **Date:** Wed, 29 Apr 2026 13:23:39 +0000
 
- The White House is drafting guidance that would let federal agencies work with Anthropic again, including access to the company's new model Mythos.
-The article 
- Microsoft and OpenAI dissolve their exclusivity deal. One day later, AWS rolls out three new OpenAI offerings on its Bedrock platform, including a jointly built agent service.
-The article 
- The closely watched trial between Elon Musk and OpenAI CEO Sam Altman kicked off in federal court in Oakland. Both sides laid out wildly different versions of the AI lab's early days.
-The article 
- Gemini can now remember your preferences and import your chat history from other AI apps.
-The article Google rolls...
+Gedung Putih sedang menyusun panduan yang memungkinkan lembaga federal bekerja sama dengan Anthropic lagi, termasuk akses ke model baru perusahaan, Mythos.
+Artikel 
+ Microsoft dan OpenAI membubarkan kesepakatan eksklusivitas mereka. Sehari kemudian, AWS meluncurkan tiga penawaran OpenAI baru di platform Bedrock-nya, termasuk layanan agen yang dibangun bersama.
+Artikel 
+ Sidang yang diawasi ketat antara Elon Musk dan CEO OpenAI Sam Altman dimulai di pengadilan federal di Oakland. Kedua belah pihak menyajikan versi yang sangat berbeda tentang hari-hari awal lab AI.
+Artikel 
+ Gemini kini dapat mengingat preferensi Anda dan mengimpor riwayat chat dari aplikasi AI lain.
+Artikel Google rilis...
 
 [Read more](https://the-decoder.com/google-rolls-out-gemini-memory-in-europe-and-wants-you-to-bring-your-chatgpt-data-along/)
 
 ---
 
-### Colby Adcock’s Scout AI raises $100M to train its models for war: We visited its bootcamp
+### Scout AI milik Colby Adcock kumpulkan $100M untuk latih model bagi perang: Kami kunjungi bootcamp-nya
 
 **Source:** techcrunch | **Date:** Wed, 29 Apr 2026 09:45:00 +0000
 
-We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.
+Kami mengunjungi tempat pelatihan Scout AI di mana mereka mengerjakan agen AI yang dapat membantu prajurit mengendalikan armada kendaraan otonom.
 
 [Read more](https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/)
 
 ---
 
-### With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model
+### Dengan Nemotron 3 Nano Omni, Nvidia ungkap apa yang sebenarnya membangun model multimodal modern
 
 **Source:** the-decoder | **Date:** Wed, 29 Apr 2026 09:28:29 +0000
 
- Nvidia releases Nemotron 3 Nano Omni, an open multimodal model for text, image, video and audio. Not only the performance is exciting, but also a look at the training data: it comes from Qwen, GPT-OSS, Kimi and DeepSeek OCR, among others.
+Nvidia merilis Nemotron 3 Nano Omni, model multimodal terbuka untuk teks, gambar, video, dan audio. Tidak hanya performanya yang menarik, tetapi juga melihat data pelatihannya: berasal dari Qwen, GPT-OSS, Kimi, dan DeepSeek OCR, antara lain.
 ...
 
 [Read more](https://the-decoder.com/with-nemotron-3-nano-omni-nvidia-reveals-what-really-goes-into-a-modern-multimodal-model/)
 
 ---
 
-### At his OpenAI trial, Musk relitigates an old friendship
+### Di sidang OpenAI, Musk ungkit kembali persahabatan lama
 
 **Source:** techcrunch | **Date:** Wed, 29 Apr 2026 00:40:16 +0000
 
-It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.
+Ini adalah cerita yang pernah diceritakan Musk sebelumnya — dalam wawancara dan kepada penulis Walter Isaacson untuk biografi terlaris Musk — namun hari Selasa adalah pertama kalinya dia mengatakannya di bawah sumpah.
 
 [Read more](https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/)
 
 ---
 
-### DeepInfra on Hugging Face Inference Providers 🔥
+### DeepInfra di Hugging Face Inference Providers 🔥
 
 **Source:** huggingface.co | **Date:** Wed, 29 Apr 2026 00:00:00 GMT
 
@@ -572,11 +568,11 @@ It's a story Musk has told before -- in interviews and to author Walter Isaacson
 
 ---
 
-### Sources: Anthropic could raise a new `50B round at a valuation of `900B
+### Sumber: Anthropic bisa kumpulkan putaran $50B baru dengan valuasi $900B
 
 **Source:** techcrunch | **Date:** Thu, 30 Apr 2026 00:07:15 +0000
 
-The maker of Claude has received multiple pre-emptive offers at valuations in the `850 billion to `900 billion range, according to sources familiar with the matter.
+Pembuat Claude telah menerima beberapa tawaran pre-emptif pada valuasi di kisaran $850 miliar hingga $900 miliar, menurut sumber yang mengetahui masalah ini.
 
 [Read more](https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/)
 
@@ -586,130 +582,127 @@ The maker of Claude has received multiple pre-emptive offers at valuations in th
 
 *Updated: 2026-05-01 08:20:33*
 
-### Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks
+### Sumber: Putaran valuasi Anthropic potensial $900B+ bisa terjadi dalam 2 minggu
 
 **Source:** techcrunch | **Date:** Thu, 30 Apr 2026 23:07:56 +0000
 
-Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter. 
+Anthropic meminta investor untuk mengirimkan alokasi untuk penggalangan dana terbaru perusahaan AI dalam 48 jam ke depan, menurut sumber yang mengetahui masalah ini.
 
 [Read more](https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/)
 
 ---
 
-### Elon Musk's 7 biggest stumbles on the stand at OpenAI trial
+### 7 kesalahan terbesar Elon Musk di kursi saksi sidang OpenAI
 
 **Source:** arstechnica | **Date:** Thu, 30 Apr 2026 21:11:51 +0000
 
- Elon Musk spent three days testifying as the first witness in his trial against OpenAI.
+Elon Musk menghabiskan tiga hari bersaksi sebagai saksi pertama dalam sidangnya melawan OpenAI.
  
-
 [Read more](https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/)
 
 ---
 
-### Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter
+### Startup AI hukum Legora raih valuasi $5.6B dan pertarungan dengan Harvey kian panas
 
 **Source:** techcrunch | **Date:** Thu, 30 Apr 2026 20:14:47 +0000
 
-The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.
+Dua pesaing yang tumbuh sangat cepat ini telah mengumpulkan dana besar, mendorong masuk ke wilayah masing-masing, dan kini memiliki kampanye iklan bersaing.
 
 [Read more](https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/)
 
 ---
 
-### Researchers try to cut the genetic code from 20 to 19 amino acids
+### Peneliti coba potong kode genetik dari 20 menjadi 19 asam amino
 
 **Source:** arstechnica | **Date:** Thu, 30 Apr 2026 19:34:15 +0000
 
- Using AI tools, the team reworked part of the ribosome to need one less amino acid.
+Menggunakan alat AI, tim mengerjakan ulang bagian ribosom untuk membutuhkan satu asam amino lebih sedikit.
  
-
 [Read more](https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/)
 
 ---
 
-### After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too
+### Setelah kritik Anthropic batasi Mythos, OpenAI batasi akses ke Cyber juga
 
 **Source:** techcrunch | **Date:** Thu, 30 Apr 2026 19:27:41 +0000
 
-OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only "to critical cyber defenders" at first.
+OpenAI akan mulai meluncurkan alat pengujian keamanan sibernya, GPT-5.5 Cyber, hanya "kepada pembela siber kritis" pada awalnya.
 
 [Read more](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/)
 
 ---
 
-### OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico
+### OpenAI umumkan keamanan lanjutan baru untuk akun ChatGPT, termasuk kemitraan dengan Yubico
 
 **Source:** techcrunch | **Date:** Thu, 30 Apr 2026 18:20:03 +0000
 
-OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico. 
+OpenAI meluncurkan perlindungan opsional tambahan untuk akun ChatGPT. Inisiatif keamanan baru ini mencakup kemitraan baru dengan penyedia kunci keamanan Yubico.
 
 [Read more](https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/)
 
 ---
 
-### Elon Musk testifies that xAI trained Grok on OpenAI models
+### Elon Musk bersaksi bahwa xAI latih Grok pada model OpenAI
 
 **Source:** techcrunch | **Date:** Thu, 30 Apr 2026 18:03:57 +0000
 
-"Distillation" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.
+"Distilasi" menjadi topik hangat saat lab frontier mencoba mencegah pesaing kecil menyalin model mereka.
 
 [Read more](https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/)
 
 ---
 
-### Microsoft CEO Satya Nadella says AI success is "more about getting intense users and intense usage" than seat counts
+### CEO Microsoft Satya Nadella: kesuksesan AI lebih soal pengguna intens dan penggunaan intens
 
 **Source:** the-decoder | **Date:** Thu, 30 Apr 2026 17:49:04 +0000
 
- Microsoft is posting record profits and strong cloud growth, but just like Google, the company is saying little about how its generative AI business is actually performing.
-The article 
- Alphabet is investing up to $190 billion in AI and cloud infrastructure through 2026, and the company says spending will rise "significantly" again in 2027.
-The article 
- OpenAI says it has reached its goal of 10 gigawatts of AI compute capacity in the United States several years ahead of schedule. 
-The article O...
+Microsoft mencatat laba rekor dan pertumbuhan cloud yang kuat, namun seperti Google, perusahaan hanya sedikit bicara tentang bagaimana bisnis AI generatifnya benar-benar berkinerja.
+Artikel 
+ Alphabet menginvestasikan hingga $190 miliar di infrastruktur AI dan cloud hingga 2026, dan perusahaan mengatakan belanja akan naik "secara signifikan" lagi di 2027.
+Artikel 
+ OpenAI mengatakan telah mencapai target 10 gigawatt kapasitas komputasi AI di Amerika Serikat beberapa tahun lebih awal dari jadwal. 
+Artikel O...
 
 [Read more](https://the-decoder.com/openai-says-it-hit-its-10-gigawatt-compute-goal-years-ahead-of-schedule/)
 
 ---
 
-### Anthropic's new benchmark claims Claude can match human experts in bioinformatics
+### Tolok ukur baru Anthropic klaim Claude bisa setarai ahli manusia dalam bioinformatika
 
 **Source:** the-decoder | **Date:** Thu, 30 Apr 2026 12:31:31 +0000
 
- With BioMysteryBench, Anthropic wants to show that Claude can solve real bioinformatics problems at an expert level. The results are promising, but come with important caveats.
-The article 
- Tencent has released a compact AI translation model as an open-weight model that it claims outperforms Google Translate and runs completely offline on smartphones.
-The article 
- The White House has rejected Anthropic's plan to expand access to its AI model Mythos to roughly 70 additional companies, the Wall Street Journal reports. 
-The article 
- The FDA is launching a pilot program to monitor clinical trials in real time using AI and cloud computing, a move the agency says could dramatically shorten the time it takes to approve new drugs.
+Dengan BioMysteryBench, Anthropic ingin menunjukkan bahwa Claude dapat memecahkan masalah bioinformatika nyata di level ahli. Hasilnya menjanjikan, namun datang dengan peringatan penting.
+Artikel 
+ Tencent telah merilis model terjemahan AI ringkas sebagai model open-weight yang diklaim mengungguli Google Translate dan berjalan sepenuhnya offline di smartphone.
+Artikel 
+ Gedung Putih telah menolak rencana Anthropic untuk memperluas akses model AI Mythos ke sekitar 70 perusahaan tambahan, lapor Wall Street Journal.
+Artikel 
+ FDA meluncurkan program percontohan untuk memantau uji klinis secara real time menggunakan AI dan cloud computing, langkah yang menurut badan tersebut dapat secara dramatis memperpendek waktu yang dibutuhkan untuk menyetujui obat baru.
 
- Anthropic is reviewing investor offers for a new funding round that would value the AI company at over $900 billion, Bloomberg reports. 
-The article 
- Softbank is planning to launch and take public a new AI and robotics company called Roze in the United States, the Financial Times reports. 
-The ar...
+ Anthropic meninjau tawaran investor untuk putaran pendanaan baru yang akan menilai perusahaan AI ini di atas $900 miliar, lapor Bloomberg.
+Artikel 
+ Softbank berencana meluncurkan dan mencatatkan perusahaan AI dan robotika baru bernama Roze di Amerika Serikat, lapor Financial Times.
+Artikel...
 
 [Read more](https://the-decoder.com/softbank-plans-ipo-for-new-ai-and-robotics-company-valued-at-up-to-100-billion/)
 
 ---
 
-### The hidden cost of Google's AI defaults and the illusion of choice
+### Biaya tersembunyi dari default AI Google dan ilusi pilihan
 
 **Source:** arstechnica | **Date:** Thu, 30 Apr 2026 11:00:31 +0000
 
- Google says it respects user privacy in AI, but the reality is not so black and white.
+Google mengatakan menghormati privasi pengguna dalam AI, namun kenyataannya tidak hitam putih.
  
-
 [Read more](https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/)
 
 ---
 
-### SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO
+### SoftBank ciptakan perusahaan robotika yang bangun data center — dan sudah incar IPO $100B
 
 **Source:** techcrunch | **Date:** Thu, 30 Apr 2026 03:58:22 +0000
 
-You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure. 
+Anda butuh infrastruktur untuk membangun AI dan robot, namun tampaknya Anda juga butuh AI dan robot untuk membangun infrastruktur.
 
 [Read more](https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/)
 
@@ -719,227 +712,223 @@ You need infrastructure to build AI and robots, but apparently you also need AI 
 
 *Updated: 2026-05-02 08:20:36*
 
-### Stripe updates Link, a digital wallet that autonomous AI agents can use, too
+### Stripe perbarui Link, dompet digital yang juga bisa digunakan agen AI otonom
 
 **Source:** techcrunch | **Date:** Thu, 30 Apr 2026 17:15:19 +0000
 
-Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows. 
+Link memungkinkan pengguna menghubungkan kartu, bank, dan langganan, lalu mengotorisasi agen AI untuk berbelanja secara aman melalui alur persetujuan.
 
 [Read more](https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/)
 
 ---
 
-### Study: AI models that consider user's feeling are more likely to make errors
+### Studi: Model AI yang pertimbangkan perasaan pengguna lebih mungkin buat kesalahan
 
 **Source:** arstechnica | **Date:** Fri, 01 May 2026 22:23:36 +0000
 
- Overtuning can cause models to "prioritize user satisfaction over truthfulness.” 
+Penyesuaian berlebihan dapat menyebabkan model "mengutamakan kepuasan pengguna daripada kebenaran."
  
-
 [Read more](https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/)
 
 ---
 
-### Meta buys robotics startup to bolster its humanoid AI ambitions
+### Meta beli startup robotika perkuat ambisi AI humanoid
 
 **Source:** techcrunch | **Date:** Fri, 01 May 2026 22:13:27 +0000
 
-Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.
+Meta membeli startup humanoid Assured Robot Intelligence untuk memperkuat model AI untuk robot, kata perusahaan.
 
 [Read more](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)
 
 ---
 
-### Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models
+### Musk v. Altman minggu 1: Elon Musk bilang dia ditipu, peringatkan AI bisa bunuh kita semua, dan akui xAI distilasi model OpenAI
 
 **Source:** technologyreview | **Date:** Fri, 01 May 2026 22:08:19 +0000
 
-In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;
+Di minggu pertama sidang penting antara Elon Musk dan OpenAI, Musk duduk di kursi saksi dengan setelan jas hitam rapi dan dasi, serta berargumen bahwa CEO OpenAI Sam Altman dan presiden Greg Brockman telah menipunya untuk mendanai perusahaan. Di sepanjang jalan, dia memperingatkan bahwa AI bisa menghancurkan kita semua dan duduk selama&#160;...
 
 [Read more](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/)
 
 ---
 
-### Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.
+### Tahukah Anda tidak bisa mencuri badan amal? Jangan khawatir. Elon Musk akan mengingatkan Anda.
 
 **Source:** techcrunch | **Date:** Fri, 01 May 2026 17:44:29 +0000
 
-Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the [&#8230;]
+Elon Musk menghabiskan sebagian besar dari tiga hari di kursi saksi minggu ini dalam gugatannya melawan OpenAI, dan situasinya sudah mulai kacau. Email, teks, dan tweet-nya sendiri muncul di pengadilan, dan masih banyak saksi lain yang akan datang. Argumen Musk melawan OpenAI? Dengan mengubah perusahaan menjadi model for-profit, Sam Altman mengkhianati "nirlaba untuk [&#8230;]
 
 [Read more](https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/)
 
 ---
 
-### Minnesota passes ban on fake AI nudes; app makers risk $500K fines
+### Minnesota sahkan larangan AI nude palsu; pembuat aplikasi terancam denda $500K
 
 **Source:** arstechnica | **Date:** Fri, 01 May 2026 17:36:29 +0000
 
- More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.
+Lebih banyak bukti Grok CSAM terlihat saat Minnesota sahkan larangan aplikasi nudifikasi.
  
-
 [Read more](https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/)
 
 ---
 
-### Eight tech giants sign Pentagon deals to build an "AI-first fighting force" across classified networks
+### Delapan raksasa teknologi tanda tangani kesepakatan Pentagon bangun "kekuatan tempur berbasis AI" di jaringan rahasia
 
 **Source:** the-decoder | **Date:** Fri, 01 May 2026 16:30:38 +0000
 
- Eight tech companies are supplying AI for classified US military networks, part of the Pentagon's push to build an "AI-first fighting force." Anthropic is notably absent from the list after the company rejected a usage clause and ...
+Delapan perusahaan teknologi memasok AI untuk jaringan militer rahasia AS, bagian dari dorongan Pentagon untuk membangun "kekuatan tempur berbasis AI." Anthropic secara mencolok tidak ada dalam daftar setelah perusahaan menolak klausul penggunaan dan ...
 
 [Read more](https://the-decoder.com/eight-tech-giants-sign-pentagon-deals-to-build-an-ai-first-fighting-force-across-classified-networks/)
 
 ---
 
-### First Chinese AI startups are reportedly ditching offshore structures to register directly in China
+### Startup AI China pertama dilaporkan tinggalkan struktur offshore untuk daftar langsung di China
 
 **Source:** the-decoder | **Date:** Fri, 01 May 2026 16:06:04 +0000
 
- After Beijing blocked Meta's takeover of Manus, China's securities regulator signaled that companies hoping to go public should be registered at home. Now AI startups like Moonshot AI and StepFun are considering dissolving their foreign holding structures ...
+Setelah Beijing memblokir pengambilalihan Manus oleh Meta, regulator sekuritas China mengisyaratkan bahwa perusahaan yang berharap go public harus terdaftar di dalam negeri. Kini startup AI seperti Moonshot AI dan StepFun mempertimbangkan untuk membubarkan struktur kepemilikan asing mereka ...
 
 [Read more](https://the-decoder.com/first-chinese-ai-startups-are-reportedly-ditching-offshore-structures-to-register-directly-in-china/)
 
 ---
 
-### Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks
+### Pentagon tanda tangani kesepakatan dengan Nvidia, Microsoft, dan AWS untuk terapkan AI di jaringan rahasia
 
 **Source:** techcrunch | **Date:** Fri, 01 May 2026 16:02:36 +0000
 
-The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.
+Kesepakatan ini datang saat DOD menggandakan upaya diversifikasi eksposur ke vendor AI menyusul perselisihan kontroversial dengan Anthropic atas ketentuan penggunaan model AI-nya.
 
 [Read more](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/)
 
 ---
 
-### Cyber-Insecurity in the AI Era
+### Ketidakamanan Siber di Era AI
 
 **Source:** technologyreview | **Date:** Fri, 01 May 2026 15:54:01 +0000
 
-Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;
+Keamanan siber sudah berada di bawah tekanan sebelum AI memasuki tumpukan. Kini, seiring AI memperluas permukaan serangan dan menambah kompleksitas baru, batas pendekatan lama semakin sulit diabaikan. Sesi dari konferensi EmTech AI MIT Technology Review ini mengeksplorasi mengapa keamanan harus dipikirkan ulang dengan AI sebagai intinya, bukan dilapiskan setelah&#8230;
 
 [Read more](https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/)
 
 ---
 
-### GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests
+### GPT-5.5 sepadan dengan Mythos Preview yang sangat dihebohkan dalam tes keamanan siber baru
 
 **Source:** arstechnica | **Date:** Fri, 01 May 2026 15:32:27 +0000
 
- New results suggest Mythos' cyber threat isn't "a breakthrough specific to one model."
+Hasil baru menunjukkan ancaman siber Mythos bukan "terobosan spesifik untuk satu model."
  
-
 [Read more](https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/)
 
 ---
 
-### Operationalizing AI for Scale and Sovereignty
+### Mengoperasionalkan AI untuk Skala dan Kedaulatan
 
 **Source:** technologyreview | **Date:** Fri, 01 May 2026 15:31:09 +0000
 
-Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data&#8230;
+Perusahaan mengambil kendali atas data mereka sendiri untuk menyesuaikan AI sesuai kebutuhan. Tantangannya terletak pada menyeimbangkan kepemilikan dengan aliran data berkualitas tinggi yang aman dan terpercaya yang dibutuhkan untuk menghasilkan wawasan yang andal. Percakapan dari konferensi EmTech AI MIT Technology Review ini mengkaji bagaimana pabrik AI membuka level baru skala, keberlanjutan, dan tata kelola—memposisikan data&#8230;
 
 [Read more](https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/)
 
 ---
 
-### Big tech's AI spending balloons to `725 billion this year
+### Belanja AI big tech membengkak menjadi $725 miliar tahun ini
 
 **Source:** the-decoder | **Date:** Fri, 01 May 2026 14:41:45 +0000
 
- Big tech keeps pouring more money into AI data centers, chips, and infrastructure. According to the Financial Times, Google, Amazon, Microsoft, and Meta have a combined budget of around `725 billion for next year.
-The article 
- A faulty reward signal during training caused ChatGPT models to start dropping goblins, gremlins, and other mythical creatures into their answers at a surprising rate. OpenAI says it's an example of how small, poorly tuned training incentives can produce un...
+Big tech terus mengucurkan lebih banyak uang ke pusat data AI, chip, dan infrastruktur. Menurut Financial Times, Google, Amazon, Microsoft, dan Meta memiliki anggaran gabungan sekitar $725 miliar untuk tahun depan.
+Artikel 
+ Sinyal hadiah yang salah selama pelatihan menyebabkan model ChatGPT mulai memasukkan goblin, gremlin, dan makhluk mitos lainnya ke dalam jawaban mereka pada tingkat yang mengejutkan. OpenAI mengatakan ini adalah contoh bagaimana insentif pelatihan kecil yang tidak disetel dengan baik dapat menghasilkan...
 
 [Read more](https://the-decoder.com/chatgpts-goblin-obsession-may-be-hilarious-but-it-points-to-a-deeper-problem-in-ai-training/)
 
 ---
 
-### Microsoft puts an AI legal agent inside Word for contract review
+### Microsoft tempatkan agen hukum AI di dalam Word untuk review kontrak
 
 **Source:** the-decoder | **Date:** Fri, 01 May 2026 13:11:36 +0000
 
- Microsoft is bringing an AI agent for lawyers straight into Word. The "Legal Agent" reviews contracts, suggests edits, and checks clauses against internal guidelines.
-The article 
- Anthropic wants to give cyber defenders an edge with Claude Security, drawing on the same offensive capabilities it recently deemed too dangerous to release in another model.
-The article 
- OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to ...
+Microsoft menghadirkan agen AI untuk pengacara langsung ke Word. "Legal Agent" meninjau kontrak, menyarankan suntingan, dan memeriksa klausul terhadap pedoman internal.
+Artikel 
+ Anthropic ingin memberi pembela siber keunggulan dengan Claude Security, memanfaatkan kemampuan ofensif yang sama yang baru-baru ini dianggap terlalu berbahaya untuk dirilis di model lain.
+Artikel 
+ GPT-5.5 dari OpenAI adalah model AI kedua yang mampu memecahkan simulasi serangan jaringan secara otonom, menurut UK AI Security Institute. Kinerjanya hampir setara dengan Claude Mythos dari Anthropic, yang masih hanya tersedia untuk ...
 
 [Read more](https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/)
 
 ---
 
-### Google Deepmind's "AI co-clinician" beats GPT-5.4 in blind doctor tests but still trails experienced physicians
+### "AI co-klinisi" Google Deepmind kalahkan GPT-5.4 dalam tes buta dokter tapi masih kalah dari dokter berpengalaman
 
 **Source:** the-decoder | **Date:** Fri, 01 May 2026 09:21:32 +0000
 
- Google Deepmind is building an "AI co-clinician" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians. The research also shows why ChatGPT's voice mode isn't ready for ser...
+Google Deepmind sedang membangun "AI co-klinisi" untuk membantu dokter merawat pasien. Sistem ini menunjukkan hasil yang menjanjikan dalam studi simulasi namun masih tertinggal dari dokter berpengalaman. Riset juga menunjukkan mengapa mode suara ChatGPT belum siap untuk penggunaan serius...
 
 [Read more](https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/)
 
 ---
 
-### Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model
+### Model flagship baru Mistral Medium 3.5 gabung chat, penalaran, dan kode dalam satu model
 
 **Source:** the-decoder | **Date:** Fri, 01 May 2026 08:21:14 +0000
 
- Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent mode.
- The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on tasks that humans can solve with...
+Model flagship baru Mistral, Mistral Medium 3.5, menggabungkan apa yang dulunya model terpisah untuk chat, penalaran, dan kode menjadi satu produk. Perusahaan Prancis ini juga menambahkan agen cloud asinkron ke alat coding Vibe dan memberikan mode agen baru pada Le Chat.
+ ARC Prize Foundation menganalisis 160 permainan dari GPT-5.5 OpenAI dan Opus 4.7 Anthropic pada tolok ukur ARC-AGI-3. Tiga pola kesalahan sistematis menjelaskan mengapa kedua model tetap di bawah 1 persen pada tugas yang bisa dipecahkan manusia dengan...
 
 [Read more](https://the-decoder.com/even-the-latest-ai-models-make-three-systematic-reasoning-errors-arc-agi-3-analysis-shows/)
 
 ---
 
-### xAI's new Custom Voices feature turns a minute of speech into a usable voice clone
+### Fitur Custom Voices baru xAI ubah semenit ucapan menjadi klon suara yang bisa digunakan
 
 **Source:** the-decoder | **Date:** Sat, 02 May 2026 12:14:46 +0000
 
- xAI now lets developers clone their own voices for AI applications. The new "Custom Voices" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs.
-The article 
- AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society.
-The article 
- Elon Musk called himself a "fool" in court, warned of a "Terminator" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered plenty of drama; and the best may still be ahead....
+xAI kini memungkinkan pengembang mengkloning suara mereka sendiri untuk aplikasi AI. Fitur "Custom Voices" baru ini dibangun di atas API Grok Speech-to-Text dan Text-to-Speech yang baru diluncurkan.
+Artikel 
+ Menakut-nakuti dengan AI menghilangkan pekerjaan alih-alih melindunginya, kata CEO Nvidia Jensen Huang. Membujuk anak muda menjauhi karir masa depan, menurutnya, benar-benar merugikan masyarakat.
+Artikel 
+ Elon Musk menyebut dirinya "bodoh" di pengadilan, memperingatkan masa depan "Terminator", dan mengakui bahwa xAI memanfaatkan model OpenAI untuk pelatihan AI-nya sendiri. Minggu pertama persidangan Musk melawan Sam Altman menyajikan banyak drama; dan yang terbaik mungkin masih di depan....
 
 [Read more](https://the-decoder.com/elon-musk-calls-himself-a-fool-for-giving-openai-38-million-that-became-an-800-billion-company/)
 
 ---
 
-### ChatGPT now tracks users for ads by default as OpenAI looks for new revenue
+### ChatGPT kini lacak pengguna untuk iklan secara default saat OpenAI cari pendapatan baru
 
 **Source:** the-decoder | **Date:** Sat, 02 May 2026 08:30:15 +0000
 
- OpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers. You can disable it in your account settings.
-The article 
- Meta has acquired robotics AI startup Assured Robot Intelligence to accelerate its work on humanoid robots. The goal is an open platform for the entire industry, similar to what Android did for smartphones.
-The article 
- With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator.
-The article 
- Microsoft quietly slipped a "Co-Authored-by Copilot" line into Git commits in Visual Studio Code - even for developers who had turned off the AI features entirely.
-The article 
- MIT researchers have a mechanistic explanation for why large language model performance scales so reliably with size. The answer comes down to a phenomenon called superposition.
-The article 
- A US government agency says China is now eight months behind in the AI race, but independent data doesn't back that up. And while US labs keep chasing smarter models, the price edge from Deepseek and other Chinese players may end up being the stronger ar...
+OpenAI telah mengaktifkan cookie pemasaran secara default untuk pengguna ChatGPT gratis di negara tempat iklan berjalan. Pelacakan aktif secara otomatis untuk akun gratis tetapi tidak untuk pelanggan berbayar. Anda dapat menonaktifkannya di pengaturan akun.
+Artikel 
+ Meta telah mengakuisisi startup AI robotika Assured Robot Intelligence untuk mempercepat pekerjaannya pada robot humanoid. Tujuannya adalah platform terbuka untuk seluruh industri, mirip dengan apa yang dilakukan Android untuk smartphone.
+Artikel 
+ Dengan Grok 4.3, xAI condong ke harga rendah dan penggunaan alat yang lebih baik. Model ini menunjukkan peningkatan pada tugas praktis, namun masih tertinggal dari model teratas OpenAI dan Anthropic. Rilis ini juga membawa generator gambar berbasis agen baru.
+Artikel 
+ Microsoft diam-diam menyisipkan baris "Co-Authored-by Copilot" ke dalam komit Git di Visual Studio Code - bahkan untuk pengembang yang telah menonaktifkan fitur AI sepenuhnya.
+Artikel 
+ Peneliti MIT memiliki penjelasan mekanistik mengapa performa model bahasa besar meningkat dengan andal seiring ukuran. Jawabannya terletak pada fenomena yang disebut superposition.
+Artikel 
+ Sebuah badan pemerintah AS mengatakan China kini tertinggal delapan bulan dalam perlombaan AI, namun data independen tidak mendukung hal itu. Dan sementara lab AS terus mengejar model yang lebih pintar, keunggulan harga dari Deepseek dan pemain China lainnya mungkin menjadi senjata yang lebih kuat...
 
 [Read more](https://the-decoder.com/china-is-falling-behind-in-the-ai-race-according-to-a-us-government-benchmark/)
 
 ---
 
-### Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding
+### MiMo-V2.5-Pro open-weight Xiaomi target Claude Opus dengan coding otonom berjam-jam
 
 **Source:** the-decoder | **Date:** Sun, 03 May 2026 07:24:01 +0000
 
- Xiaomi's new MiMo-V2.5-Pro nearly matches Anthropic's Claude Opus 4.6 on coding benchmark...
+MiMo-V2.5-Pro baru Xiaomi hampir menyamai Claude Opus 4.6 milik Anthropic dalam tolok ukur coding...
 
 [Read more](https://the-decoder.com/xiaomis-open-weight-mimo-v2-5-pro-takes-aim-at-claude-opus-with-hours-long-autonomous-coding/)
 
 ---
 
-### Same prompt, different morals: how frontier AI models diverge on ethical dilemmas
+### Prompt sama, moral berbeda: bagaimana model AI frontier berbeda dalam dilema etika
 
 **Source:** the-decoder | **Date:** Sun, 03 May 2026 07:00:50 +0000
 
- A new benchmark puts leading language models through 100 everyday ethical scenarios, from data misuse in sales to protocol violations in oncology. Behind the results lies a bigger question: who decides what an AI is allowed to do, and whose ethics does it...
+Tolok ukur baru menguji model bahasa terdepan melalui 100 skenario etika sehari-hari, dari penyalahgunaan data di penjualan hingga pelanggaran protokol di onkologi. Di balik hasilnya terdapat pertanyaan yang lebih besar: siapa yang memutuskan apa yang boleh dilakukan AI, dan etika siapa yang...
 
 [Read more](https://the-decoder.com/same-prompt-different-morals-how-frontier-ai-models-diverge-on-ethical-dilemmas/)
 
 ---
-

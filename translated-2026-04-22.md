@@ -1,0 +1,1 @@
+Translated src/routes/research/daily-digest/2026-04-22/+page.md

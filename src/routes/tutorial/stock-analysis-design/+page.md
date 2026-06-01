@@ -1,10 +1,10 @@
 ---
-title: "Riset title: "Stock Analysis Design" Desain Stock Analysis System"
+title: "Desain Sistem Analisis Saham"
 description: "Arsitektur sistem analisis saham otomatis dengan data pipeline dan visualisasi."
 tags: [tutorial]
 ---
 
-# Stock Analysis System: Rancangan Lengkap dengan AI
+# Sistem Analisis Saham: Rancangan Lengkap dengan AI
 
 *Kategori: Tutorial | Tags: AI, Machine Learning, Saham, Python, FinTech*
 
@@ -12,10 +12,10 @@ tags: [tutorial]
 
 ## Apa Itu FinBERT?
 
-**FinBERT** adalah model BERT yang sudah di-*fine-tune* khusus untuk memahami teks keuangan. Dibuat oleh Dipanjan (DJ) dan tim dari Manikya et al. (2019), FinBERT dilatih ulang di atas **BERT-base** menggunakan corpus keuangan:
+**FinBERT** adalah model BERT yang sudah di-*fine-tune* khusus untuk memahami teks keuangan. Dibuat oleh Dipanjan (DJ) dan tim dari Manikya et al. (2019), FinBERT dilatih ulang di atas **BERT-base** menggunakan korpus keuangan:
 
-- **Sumber data training:** Laporan keuangan (10-K, 10-Q), earnings call transcripts, berita keuangan
-- **Task:** Sentiment analysis pada teks keuangan
+- **Sumber data training:** Laporan keuangan (10-K, 10-Q), transkrip earnings call, berita keuangan
+- **Tugas:** Analisis sentimen pada teks keuangan
 - **Output:** Skor sentimen positif, negatif, atau netral dengan confidence
 
 ### Perbandingan FinBERT vs LLM Umum
@@ -24,9 +24,9 @@ tags: [tutorial]
 |---|---|---|
 | **Domain** | Keuangan saja | General-purpose |
 | **Ukuran** | ~110M parameter | ~100B+ parameter |
-| **Kecepatan** | Sangat cepat (lokal) | Perlu API call |
-| **Akurasi finansial** | Lebih akurat di domain finance | Perlu prompt engineering |
-| **Biaya** | Gratis (open-source) | API cost |
+| **Kecepatan** | Sangat cepat (lokal) | Perlu panggilan API |
+| **Akurasi finansial** | Lebih akurat di domain finansial | Perlu prompt engineering |
+| **Biaya** | Gratis (open-source) | Biaya API |
 | **Konteks** | 512 token | 128K-1M token |
 
 ### Pilihan Model yang Disarankan
@@ -49,28 +49,28 @@ result = sentiment("Apple reports strong quarterly earnings")
 #### 2. Analisis Teknis — XGBoost / LightGBM
 
 ```python
-# Paling mudah, sangat powerful untuk tabular data
+# Paling mudah, sangat powerful untuk data tabular
 import xgboost as xgb
 from sklearn.ensemble import GradientBoostingClassifier
 
 # XGBoost unggul di:
-# - Time series tabular (OHLCV + indicators)
+# - Time series tabular (OHLCV + indikator)
 # - Interpretable (SHAP values)
-# - Fast training & inference
-# - Handle missing data natively
+# - Training & inference cepat
+# - Handle missing data secara native
 ```
 
 #### 3. Prediksi Harga — LSTM atau TFT (Temporal Fusion Transformer)
 
 ```python
-# LSTM — simple, proven untuk time series
+# LSTM — sederhana, terbukti untuk time series
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM, Dense
 
 model = Sequential([
  LSTM(64, return_sequences=True, input_shape=(60, 10)),
  LSTM(32),
- Dense(1) # Prediksi harga下一个 hari
+ Dense(1) # Prediksi harga hari berikutnya
 ])
 ```
 
@@ -78,11 +78,11 @@ model = Sequential([
 
 ```python
 # Bisa pakai 9Router combo untuk akses berbagai LLM
-# Prompt engineering untuk extract:
-# - Sentiment score (-1 to +1)
-# - Key entities (perusahaan, orang)
-# - Impact level (high/medium/low)
-# - Investment thesis (bullish/bearish/neutral)
+# Prompt engineering untuk ekstrak:
+# - Skor sentimen (-1 to +1)
+# - Entitas kunci (perusahaan, orang)
+# - Level dampak (high/medium/low)
+# - Tesis investasi (bullish/bearish/neutral)
 ```
 
 ---
@@ -146,7 +146,7 @@ model = Sequential([
 
 ---
 
-## Layer Detail
+## Detail Layer
 
 ### Layer 1: Data Ingestion
 
@@ -164,7 +164,7 @@ class StockDataIngestion:
  stock = yf.Ticker(ticker)
  df = stock.history(period=period)
  
- # Hitung technical indicators
+ # Hitung indikator teknikal
  df['RSI'] = self._calc_rsi(df['Close'])
  df['MACD'] = self._calc_macd(df['Close'])
  df['BB_upper'], df['BB_lower'] = self._calc_bollinger(df['Close'])
@@ -221,7 +221,7 @@ class LLMAnalyzer:
  pass
 ```
 
-### Layer 2b: Technical Signal (XGBoost)
+### Layer 2b: Sinyal Teknikal (XGBoost)
 
 ```python
 # technical_signals.py
@@ -230,7 +230,7 @@ import numpy as np
 import pandas as pd
 
 class TechnicalSignalGenerator:
- """Generate buy/sell/hold signal dari data teknis"""
+ """Generate sinyal buy/sell/hold dari data teknikal"""
  
  def __init__(self):
  self.model = xgb.XGBClassifier(
@@ -244,15 +244,15 @@ class TechnicalSignalGenerator:
  )
  
  def prepare_features(self, df: pd.DataFrame) -> pd.DataFrame:
- """Siapkan feature matrix"""
+ """Siapkan matriks fitur"""
  features = pd.DataFrame()
  
- # Price features
+ # Fitur harga
  features['return_1d'] = df['Close'].pct_change(1)
  features['return_5d'] = df['Close'].pct_change(5)
  features['return_20d'] = df['Close'].pct_change(20)
  
- # Technical indicators
+ # Indikator teknikal
  features['RSI'] = df['RSI'] / 100
  features['MACD'] = df['MACD']
  features['BB_position'] = (df['Close'] - df['BB_lower']) / (df['BB_upper'] - df['BB_lower'])
@@ -262,7 +262,7 @@ class TechnicalSignalGenerator:
  features['momentum_5'] = df['Close'] / df['Close'].shift(5) - 1
  features['momentum_20'] = df['Close'] / df['Close'].shift(20) - 1
  
- # Volatility
+ # Volatilitas
  features['volatility_20'] = df['Returns'].rolling(20).std()
  
  return features.dropna()
@@ -286,7 +286,7 @@ class TechnicalSignalGenerator:
  }
 ```
 
-### Layer 3: Meta-Learner (Final Decision)
+### Layer 3: Meta-Learner (Keputusan Akhir)
 
 ```python
 # meta_learner.py
@@ -296,9 +296,9 @@ import pandas as pd
 class StockMetaLearner:
  """
  XGBoost meta-learner yang menggabungkan:
- 1. Technical signal score
- 2. Sentiment score (FinBERT/LLM)
- 3. Macro signal
+ 1. Skor sinyal teknikal
+ 2. Skor sentimen (FinBERT/LLM)
+ 3. Sinyal makro
  """
  
  def __init__(self):
@@ -316,7 +316,7 @@ class StockMetaLearner:
  macro_score: float,
  momentum: float,
  volatility: float) -> pd.DataFrame:
- """Gabungkan semua feature dari layer sebelumnya"""
+ """Gabungkan semua fitur dari layer sebelumnya"""
  return pd.DataFrame([{
  'technical': technical_score, # -1 to 1
  'sentiment': sentiment_score, # -1 to 1
@@ -351,18 +351,18 @@ class StockMetaLearner:
  def _build_reasoning(self, features: pd.Series, action: str) -> str:
  reasons = []
  if features['technical'] > 0.3:
- reasons.append("technical indicators bullish")
+ reasons.append("indikator teknikal bullish")
  elif features['technical'] 0.3:
- reasons.append("sentiment positif dari berita")
+ reasons.append("sentimen positif dari berita")
  elif features['sentiment'] dict:
  # 1. Ambil data harga
  price_df = self.data.get_ohlcv(self.ticker, period="1y")
  
- # 2. Technical signal
+ # 2. Sinyal teknikal
  self.tech.train(price_df[:-30]) # exclude last 30d for validation
  tech_result = self.tech.predict(price_df)
  
- # Convert technical signal to score (-1 to 1)
+ # Convert sinyal teknikal ke skor (-1 to 1)
  signal_map = {'SELL': -1, 'HOLD': 0, 'BUY': 1}
  tech_score = signal_map[tech_result['signal']] * tech_result['confidence']
  
@@ -371,7 +371,7 @@ class StockMetaLearner:
  sentiment_scores = []
  
  for article in news:
- # FinBERT untuk quick analysis
+ # FinBERT untuk analisis cepat
  fb_result = self.finbert.analyze(article['title'])
  fb_score = (fb_result['scores']['positive'] - 
  fb_result['scores']['negative'])
@@ -380,11 +380,11 @@ class StockMetaLearner:
  # Rata-rata sentimen 7 hari
  sentiment_score = sum(sentiment_scores) / len(sentiment_scores) if sentiment_scores else 0
  
- # 4. Meta-learner decision
+ # 4. Keputusan meta-learner
  recent = price_df.tail(20)
  momentum = float(recent['Close'].pct_change(20).iloc[-1])
  volatility = float(recent['Returns'].rolling(20).std().iloc[-1])
- macro_score = 0.1 # placeholder - bisa di-expand dengan IHSG, Suku bunga
+ macro_score = 0.1 # placeholder - bisa dikembangkan dengan IHSG, suku bunga
  
  meta_features = self.meta.prepare_meta_features(
  technical_score=tech_score,
@@ -462,18 +462,18 @@ requests>=2.31.0
 0 17 * * 1-5 cd ~/projects/stock-analyzer && python run_analysis.py >> ~/.logs/stock-analysis.log 2>&1
 ```
 
-### 4. VM Recommendation
+### 4. Rekomendasi VM
 
 Berdasarkan infrastruktur kamu:
 
-| Component | VM | Resource |
+| Komponen | VM | Resource |
 |---|---|---|
 | Data ingestion + API | VM 105 (1.9 GB) | Cukup untuk cron job ringan |
-| FinBERT inference | VM 105 atau Hermes | ~500 MB RAM untuk model |
+| Inferensi FinBERT | VM 105 atau Hermes | ~500 MB RAM untuk model |
 | LLM via 9Router | Cloud | Tidak perlu RAM lokal |
 | Database | VM 105 MySQL | Sudah tersedia |
 
-> ⚠️ **Catatan:** Jangan jalankan model ML berat di VM 105 (RAM terbatas). Gunakan Hermes (3.8 GB) atau VM lain untuk training. Inference FinBERT ringan bisa di VM 105.
+> ⚠️ **Catatan:** Jangan jalankan model ML berat di VM 105 (RAM terbatas). Gunakan Hermes (3.8 GB) atau VM lain untuk training. Inferensi FinBERT ringan bisa di VM 105.
 
 ---
 
@@ -484,10 +484,10 @@ Untuk **sederhana tapi powerful**:
 | Layer | Pilihan Utama | Alternatif |
 |---|---|---|
 | **Sentimen** | **FinBERT** (lokal, cepat, gratis) | DeepSeek-V3 via 9Router |
-| **Teknis** | **XGBoost** (tabular data terbaik) | LightGBM |
-| **Prediksi Harga** | **LSTM** (proven untuk time series) | Prophet (forecasting) |
+| **Teknis** | **XGBoost** (data tabular terbaik) | LightGBM |
+| **Prediksi Harga** | **LSTM** (terbukti untuk time series) | Prophet (forecasting) |
 | **LLM Enhancement** | **DeepSeek-V3** via 9Router (murah) | Claude (akurat) |
-| **Decision** | **XGBoost meta-learner** | Logistic Regression |
+| **Keputusan** | **XGBoost meta-learner** | Logistic Regression |
 
 Pipeline paling simpel: **FinBERT → XGBoost → Output** sudah cukup untuk analisis harian yang actionable. Upgrade ke full ensemble (LLM + LSTM + Meta-Learner) ketika sudah ada cukup data historis.
 

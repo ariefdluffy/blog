@@ -1,5 +1,5 @@
 ---
-title: "Daily Research Digest — 2026-04-22"
+title: "Riset Harian — 2026-04-22"
 description: "Research digest arXiv tanggal 2026-04-22"
 date: 2026-04-22
 tags: [research, ai, daily-digest]

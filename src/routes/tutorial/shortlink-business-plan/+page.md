@@ -6,7 +6,7 @@ tags: [tutorial]
 
 # Strategi Bisnis Shortlink & Micro-site (Biolink)
 
-Berdasarkan referensi **s.id/bidang-pkt**, model bisnis ini sangat efektif untuk instansi pemerintah atau komunitas yang membutuhkan satu "pintu masuk" untuk berbagai link dinamis (Zoom, Absensi, Materi).
+Berdasarkan referensi **s.id/bidang-pkt**, model bisnis ini sangat efektif untuk instansi pemerintah atau komunitas yang membutuhkan satu "pintu masuk" untuk berbagai tautan dinamis (Zoom, Absensi, Materi).
 
 ## 1. Analisis Ketersediaan Domain Pendek (.id)
 
@@ -25,18 +25,18 @@ Untuk membangun trust dan kemudahan ingat, gunakan domain 3-5 karakter. Berdasar
 
 ---
 
-## 2. Skema Upgrade & Monetisasi (Subscription Model)
+## 2. Skema Upgrade & Monetisasi (Model Berlangganan)
 
 Ubah strategi dari "bayar per link" menjadi "quota-based subscription" untuk menjaga cashflow:
 
 | Fitur | **FREE** | **BASIC (Rp 15rb/bln)** | **PREMIUM (Rp 45rb/bln)** |
 | :--- | :--- | :--- | :--- |
-| **Shortlinks** | 10 Link | 100 Link | Unlimited |
-| **Micro-site/Biolink** | 1 Page | 5 Pages | Unlimited |
-| **Analytics** | Last 7 Days | Last 30 Days | Full History |
-| **Ads on Page** | Ada (Brand kamu) | No Ads | No Ads |
-| **Custom Domain** | ❌ | ❌ | ✅ 1 Custom Domain |
-| **Password Protection** | ❌ | ✅ | ✅ |
+| **Tautan Pendek** | 10 Tautan | 100 Tautan | Tak Terbatas |
+| **Micro-site/Biolink** | 1 Halaman | 5 Halaman | Tak Terbatas |
+| **Analitik** | 7 Hari Terakhir | 30 Hari Terakhir | Riwayat Penuh |
+| **Iklan di Halaman** | Ada (Merek kamu) | Tanpa Iklan | Tanpa Iklan |
+| **Domain Kustom** | ❌ | ❌ | ✅ 1 Domain Kustom |
+| **Proteksi Sandi** | ❌ | ✅ | ✅ |
 
 ---
 
@@ -46,16 +46,16 @@ Ubah strategi dari "bayar per link" menjadi "quota-based subscription" untuk men
 
 Berikut alurnya step-by-step:
 
-### Step 1: User Belum Punya Domain
-- Di dashboard, user klik "Add Custom Domain"
+### Langkah 1: Pengguna Belum Punya Domain
+- Di dashboard, pengguna klik "Tambah Domain Kustom"
 - Kamu tampilkan rekomendasi registrar (Niagahoster, Domainesia, IDCloudHost)
-- User beli domain sendiri di luar (misal: `link.tokosaya.id` seharga Rp 100-200rb/tahun)
+- Pengguna beli domain sendiri di luar (misal: `link.tokosaya.id` seharga Rp 100-200rb/tahun)
 
-### Step 2: User Input Domain di Dashboard-mu
-- User masukkan `link.tokosaya.id` ke form
+### Langkah 2: Pengguna Input Domain di Dashboard-mu
+- Pengguna masukkan `link.tokosaya.id` ke form
 - Kamu simpan ke tabel `custom_domains` dengan status `pending`
 
-### Step 3: Kamu Beri Instruksi DNS
+### Langkah 3: Kamu Beri Instruksi DNS
 - Sistem menampilkan petunjuk:
  > **Instruksi Konfigurasi DNS**
  > 1. Login ke panel domain kamu (Niagahoster / tempat kamu beli domain)
@@ -65,8 +65,8 @@ Berikut alurnya step-by-step:
  > - **Target**: `gotu.id` (domain platform kamu)
  > - **TTL**: 3600 (default)
 
-### Step 4: Verifikasi Otomatis (Backend kamu)
-- Setiap 5 menit, cron job / script mengecek:
+### Langkah 4: Verifikasi Otomatis (Backend kamu)
+- Setiap 5 menit, cron job / skrip mengecek:
  ```
  dig CNAME link.tokosaya.id +short
  # Output harus: gotu.id.
@@ -76,27 +76,27 @@ Berikut alurnya step-by-step:
 
 - Jika CNAME sudah mengarah dengan benar → status berubah ke `verified`
 
-### Step 5: Generate SSL
-- Saat status `verified`, server kamu (Caddy/Nginx) otomatis request SSL dari Let's Encrypt untuk `link.tokosaya.id`
+### Langkah 5: Generate SSL
+- Saat status `verified`, server kamu (Caddy/Nginx) otomatis minta SSL dari Let's Encrypt untuk `link.tokosaya.id`
 - Status SSL berubah ke `issued`
 
-### Step 6: Siap Digunakan
-- User buka `link.tokosaya.id/event-a` → mendarat di biosite milik user
-- Semua link user sekarang bisa diakses via custom domain
-- Dashboard user menunjukkan: ✅ Active | SSL Active
+### Langkah 6: Siap Digunakan
+- Pengguna buka `link.tokosaya.id/event-a` → mendarat di biosite milik pengguna
+- Semua tautan pengguna sekarang bisa diakses via domain kustom
+- Dashboard pengguna menunjukkan: ✅ Aktif | SSL Aktif
 
 ### Catatan Penting:
-- Kamu TIDAK perlu membeli domain untuk user
-- Kamu hanya perlu **1 server Caddy** yang bisa handle ribuan domain berbeda sekaligus (fitur **On-Demand TLS**)
-- Jika user berhenti bayar → disable CNAME di DNS server kamu → otomatis domain user tidak bisa akses
+- Kamu TIDAK perlu membeli domain untuk pengguna
+- Kamu hanya perlu **1 server Caddy** yang bisa menangani ribuan domain berbeda sekaligus (fitur **On-Demand TLS**)
+- Jika pengguna berhenti bayar → nonaktifkan CNAME di DNS server kamu → otomatis domain pengguna tidak bisa akses
 
 ---
 
-## 4. Tahapan Implementasi (Roadmap)
+## 4. Tahapan Implementasi (Peta Jalan)
 
 ### Fase 1: MVP (Minimal Viable Product)
-- Bangun landing page untuk create shortlink sederhana.
-- Implementasi dashboard user untuk edit link (update URL tujuan tanpa ganti shortlink).
+- Bangun laman arahan untuk membuat shortlink sederhana.
+- Implementasi dashboard pengguna untuk edit tautan (perbarui URL tujuan tanpa ganti shortlink).
 - Integrasi sistem login (Google OAuth lebih baik).
 
 ### Fase 2: Micro-site Builder
@@ -104,14 +104,14 @@ Berikut alurnya step-by-step:
 - Komponen: Button, Image, YouTube Embed, Text Paragraph.
 - Template default yang clean dan mobile-first.
 
-### Fase 3: Payment & Automation
-- Integrasi Midtrans untuk pembayaran subscription.
-- Automasi penghapusan/disable link jika quota penuh atau subs habis.
-- Automasi SSL untuk custom domain menggunakan Caddy Server (paling mudah untuk on-the-fly SSL).
+### Fase 3: Pembayaran & Otomatisasi
+- Integrasi Midtrans untuk pembayaran langganan.
+- Otomatisasi penghapusan/nonaktifkan tautan jika kuota penuh atau langganan habis.
+- Otomatisasi SSL untuk domain kustom menggunakan Caddy Server (paling mudah untuk on-the-fly SSL).
 
-### Fase 4: Marketing & B2B
-- Targetkan instansi (seperti BPSDM) dengan fitur "Team/Organization".
-- Fitur ekspor data analytics ke Excel/PDF.
+### Fase 4: Pemasaran & B2B
+- Targetkan instansi (seperti BPSDM) dengan fitur "Tim/Organisasi".
+- Fitur ekspor data analitik ke Excel/PDF.
 
 ---
 

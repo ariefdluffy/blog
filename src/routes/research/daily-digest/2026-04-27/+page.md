@@ -1,13 +1,13 @@
 ---
-title: "Daily Research Digest — 2026-04-27"
-description: "Research digest arXiv tanggal 2026-04-27"
+title: "Ringkasan Riset Harian — 2026-04-27"
+description: "Ringkasan riset arXiv tanggal 2026-04-27"
 date: 2026-04-27
 tags: [research, ai, daily-digest]
 ---
 
-# Daily Research Digest — 27 April 2026
+# Ringkasan Riset Harian — 27 April 2026
 
-*Generated automatically by Hermes Agent*
+*Dihasilkan secara otomatis oleh Hermes Agent*
 
 ---
 
@@ -31,7 +31,7 @@ tags: [research, ai, daily-digest]
 - **Relevance untuk Hermes Agent**: Reasoning dan chain-of-thought, Pemrosesan multimodal/vision
 
 **Abstract:**
-How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention has been paid to perceiving and controlling the passage of time. In this paper, we study time as a learnable visual concept and develop models for reasoning about and manipulating the flow of time in videos. We first exploit the multimodal cues and temporal structure naturally present in videos to l
+Bagaimana kita bisa mengetahui apakah sebuah video telah dipercepat atau diperlambat? Bagaimana kita bisa menghasilkan video dengan kecepatan yang berbeda? Meskipun video telah menjadi pusat penelitian visi komputer modern, sedikit perhatian diberikan pada persepsi dan pengendalian perjalanan waktu. Dalam makalah ini, kami mempelajari waktu sebagai konsep visual yang dapat dipelajari dan mengembangkan model untuk menalar dan memanipulasi aliran waktu dalam video. Kami pertama-tama mengeksploitasi isyarat multimodal dan struktur temporal yang secara alami ada dalam video untuk
 
 ---
 
@@ -45,7 +45,7 @@ How can we tell whether a video has been sped up or slowed down? How can we gene
 - **Relevance untuk Hermes Agent**: Model bahasa besar (LLM), Pemrosesan multimodal/vision, Evaluasi dan benchmarking
 
 **Abstract:**
-Despite impressive progress in capabilities of large vision-language models (LVLMs), these systems remain vulnerable to hallucinations, i.e., outputs that are not grounded in the visual input. Prior work has attributed hallucinations in LVLMs to factors such as limitations of the vision backbone or the dominance of the language component, yet the relative importance of these factors remains unclear. To resolve this ambiguity, We propose HalluScope, a benchmark to better understand the extent to 
+Meskipun ada kemajuan impresif dalam kemampuan model bahasa-visi besar (LVLM), sistem ini tetap rentan terhadap halusinasi, yaitu keluaran yang tidak didasarkan pada masukan visual. Penelitian sebelumnya telah mengaitkan halusinasi pada LVLM dengan faktor-faktor seperti keterbatasan backbone visi atau dominasi komponen bahasa, namun kepentingan relatif dari faktor-faktor ini masih belum jelas. Untuk mengatasi ambiguitas ini, kami mengusulkan HalluScope, sebuah tolok ukur untuk lebih memahami sejauh
 
 ---
 
@@ -59,7 +59,7 @@ Despite impressive progress in capabilities of large vision-language models (LVL
 - **Relevance untuk Hermes Agent**: Agen AI otonom dan planning, Model bahasa besar (LLM), RAG dan knowledge retrieval
 
 **Abstract:**
-Scientific workflow systems automate execution -- scheduling, fault tolerance, resource management -- but not the semantic translation that precedes it. Scientists still manually convert research questions into workflow specifications, a task requiring both domain knowledge and infrastructure expertise. We propose an agentic architecture that closes this gap through three layers: an LLM interprets natural language into structured intents (semantic layer); validated generators produce reproducibl
+Sistem alur kerja ilmiah mengotomatiskan eksekusi — penjadwalan, toleransi kesalahan, manajemen sumber daya — tetapi tidak menerjemahkan semantik yang mendahuluinya. Ilmuwan masih secara manual mengonversi pertanyaan riset menjadi spesifikasi alur kerja, sebuah tugas yang membutuhkan keahlian domain dan keahlian infrastruktur. Kami mengusulkan arsitektur agentik yang menjembatani kesenjangan ini melalui tiga lapisan: LLM menafsirkan bahasa alami menjadi niat terstruktur (lapisan semantik); generator yang tervalidasi menghasilkan reproduksi yang dapat
 
 ---
 
@@ -73,7 +73,7 @@ Scientific workflow systems automate execution -- scheduling, fault tolerance, r
 - **Relevance untuk Hermes Agent**: Evaluasi dan benchmarking
 
 **Abstract:**
-Streaming Continual Learning (CL) typically converts a continuous stream into a sequence of discrete tasks through temporal partitioning. We argue that this temporal taskification step is not a neutral preprocessing choice, but a structural component of evaluation: different valid splits of the same stream can induce different CL regimes and therefore different benchmark conclusions. To study this effect, we introduce a taskification-level framework based on plasticity and stability profiles, a 
+Pembelajaran Berkelanjutan (Continual Learning/CL) streaming biasanya mengonversi aliran kontinu menjadi serangkaian tugas diskrit melalui partisi temporal. Kami berpendapat bahwa langkah temporal taskifikasi ini bukanlah pilihan prapemrosesan yang netral, melainkan komponen struktural dari evaluasi: pemisahan yang berbeda namun valid dari aliran yang sama dapat menginduksi rezim CL yang berbeda dan oleh karena itu kesimpulan tolok ukur yang berbeda. Untuk mempelajari efek ini, kami memperkenalkan kerangka kerja tingkat taskifikasi berdasarkan profil plastisitas dan stabilitas,
 
 ---
 
@@ -87,7 +87,7 @@ Streaming Continual Learning (CL) typically converts a continuous stream into a 
 - **Relevance untuk Hermes Agent**: Fine-tuning dan optimisasi model, RAG dan knowledge retrieval, Evaluasi dan benchmarking
 
 **Abstract:**
-Continual learning (CL) studies how models acquire tasks sequentially while retaining previously learned knowledge. Despite substantial progress in benchmarking CL methods, comparative evaluations typically keep the fine-tuning regime fixed. In this paper, we argue that the fine-tuning regime, defined by the trainable parameter subspace, is itself a key evaluation variable. We formalize adaptation regimes as projected optimization over fixed trainable subspaces, showing that changing the trainab
+Pembelajaran berkelanjutan (CL) mempelajari bagaimana model mengakuisisi tugas secara berurutan sambil mempertahankan pengetahuan yang telah dipelajari sebelumnya. Meskipun ada kemajuan substansial dalam pembuatan tolok ukur metode CL, evaluasi komparatif biasanya menjaga rezim fine-tuning tetap tetap. Dalam makalah ini, kami berpendapat bahwa rezim fine-tuning, yang didefinisikan oleh subruang parameter yang dapat dilatih, adalah variabel evaluasi kunci itu sendiri. Kami merumuskan rezim adaptasi sebagai optimasi terproyeksi atas subruang yang dapat dilatih tetap, menunjukkan bahwa mengubah
 
 ---
 
@@ -101,7 +101,7 @@ Continual learning (CL) studies how models acquire tasks sequentially while reta
 - **Relevance untuk Hermes Agent**: Penelitian AI/ML umum
 
 **Abstract:**
-We study the minimax sample complexity of multicalibration in the batch setting. A learner observes `n` i.i.d. samples from an unknown distribution and must output a (possibly randomized) predictor whose population multicalibration error, measured by Expected Calibration Error (ECE), is at most `\varepsilon` with respect to a given family of groups. For every fixed `κ&gt; 0`, in the regime `|G|\le \varepsilon^{-κ}`, we prove that `\widetildeΘ(\varepsilon^{-3})` samples are necessary and sufficie
+Kami mempelajari kompleksitas sampel minimax dari multikalibrasi dalam pengaturan batch. Seorang pembelajar mengamati `n` sampel i.i.d. dari distribusi yang tidak diketahui dan harus mengeluarkan prediktor (mungkin acak) yang kesalahan multikalibrasi populasinya, diukur dengan Expected Calibration Error (ECE), paling banyak `\varepsilon` sehubungan dengan keluarga grup tertentu. Untuk setiap `κ&gt; 0` tetap, dalam rezim `|G|\le \varepsilon^{-κ}`, kami membuktikan bahwa sampel `\widetildeΘ(\varepsilon^{-3})` diperlukan dan mencukupi
 
 ---
 
@@ -115,7 +115,7 @@ We study the minimax sample complexity of multicalibration in the batch setting.
 - **Relevance untuk Hermes Agent**: Model bahasa besar (LLM), Evaluasi dan benchmarking
 
 **Abstract:**
-Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human perception, but decoder-based Large Language Models (LLMs) remain underexplored for this task. This paper evaluates their relevance through three approaches: (1) selecting the best hypothesis between two candidates, (2) computing semantic distance using generative embeddings, and (3) qualitative class
+Pengenalan Ucapan Otomatis (ASR) secara tradisional dievaluasi menggunakan Word Error Rate (WER), sebuah metrik yang tidak sensitif terhadap makna. Metrik semantik berbasis embedding memiliki korelasi yang lebih baik dengan persepsi manusia, tetapi Model Bahasa Besar (LLM) berbasis decoder masih kurang dieksplorasi untuk tugas ini. Makalah ini mengevaluasi relevansi mereka melalui tiga pendekatan: (1) memilih hipotesis terbaik antara dua kandidat, (2) menghitung jarak semantik menggunakan embedding generatif, dan (3) klasifikasi kualitatif
 
 ---
 
@@ -129,7 +129,7 @@ Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error R
 - **Relevance untuk Hermes Agent**: Model bahasa besar (LLM), Evaluasi dan benchmarking
 
 **Abstract:**
-As frontier language models attain near-ceiling performance on static mathematical benchmarks, existing evaluations are increasingly unable to differentiate model capabilities, largely because they cast models solely as solvers of fixed problem sets. We introduce MathDuels, a self-play benchmark in which models occupy dual roles: each authors math problems under adversarial prompting and solves problems authored by every other participant. Problems are produced through a three-stage generation p
+Seiring model bahasa mutakhir mencapai kinerja mendekati batas atas pada tolok ukur matematika statis, evaluasi yang ada semakin tidak mampu membedakan kemampuan model, sebagian besar karena mereka hanya menempatkan model sebagai pemecah kumpulan masalah tetap. Kami memperkenalkan MathDuels, sebuah tolok ukur self-play di mana model menempati peran ganda: masing-masing membuat masalah matematika di bawah prompt adversarial dan memecahkan masalah yang dibuat oleh setiap peserta lainnya. Masalah dihasilkan melalui proses generasi tiga tahap
 
 ---
 
@@ -143,7 +143,7 @@ As frontier language models attain near-ceiling performance on static mathematic
 - **Relevance untuk Hermes Agent**: Model bahasa besar (LLM), Pemrosesan multimodal/vision, Evaluasi dan benchmarking
 
 **Abstract:**
-Despite impressive progress in capabilities of large vision-language models (LVLMs), these systems remain vulnerable to hallucinations, i.e., outputs that are not grounded in the visual input. Prior work has attributed hallucinations in LVLMs to factors such as limitations of the vision backbone or the dominance of the language component, yet the relative importance of these factors remains unclear. To resolve this ambiguity, We propose HalluScope, a benchmark to better understand the extent to 
+Meskipun ada kemajuan impresif dalam kemampuan model bahasa-visi besar (LVLM), sistem ini tetap rentan terhadap halusinasi, yaitu keluaran yang tidak didasarkan pada masukan visual. Penelitian sebelumnya telah mengaitkan halusinasi pada LVLM dengan faktor-faktor seperti keterbatasan backbone visi atau dominasi komponen bahasa, namun kepentingan relatif dari faktor-faktor ini masih belum jelas. Untuk mengatasi ambiguitas ini, kami mengusulkan HalluScope, sebuah tolok ukur untuk lebih memahami sejauh
 
 ---
 
@@ -157,7 +157,7 @@ Despite impressive progress in capabilities of large vision-language models (LVL
 - **Relevance untuk Hermes Agent**: Evaluasi dan benchmarking
 
 **Abstract:**
-Parametrically driven oscillators provide a natural platform for neuromorphic computation, where nonlinear mode coupling and intrinsic dynamics enable both memory and high-dimensional transformation. Here, we investigate a two-mode system exhibiting 2:1 parametric resonance and demonstrate its operation as a reservoir computer across distinct dynamical regimes, including sub-threshold, parametric resonance, and frequency-comb states. By encoding input signals into the drive amplitude and samplin
+Osilator yang digerakkan secara parametrik menyediakan platform alami untuk komputasi neuromorfik, di mana kopling mode nonlinier dan dinamika intrinsik memungkinkan memori dan transformasi dimensi tinggi. Di sini, kami menyelidiki sistem dua mode yang menunjukkan resonansi parametrik 2:1 dan mendemonstrasikan operasinya sebagai reservoir computer di berbagai rezim dinamis, termasuk sub-ambang, resonansi parametrik, dan keadaan sisir frekuensi. Dengan mengkodekan sinyal masukan ke dalam amplitudo penggerak dan pengambilan sampel
 
 ---
 
@@ -171,7 +171,7 @@ Parametrically driven oscillators provide a natural platform for neuromorphic co
 - **Relevance untuk Hermes Agent**: Fine-tuning dan optimisasi model, Evaluasi dan benchmarking
 
 **Abstract:**
-The choice of activation function plays a crucial role in the optimization and performance of deep neural networks. While the Rectified Linear Unit (ReLU) remains the dominant choice due to its simplicity and effectiveness, its lack of smoothness may hinder gradient-based optimization in deep architectures. In this work we propose a family of `C^{2N}`-smooth activation functions whose gate follows a log-logistic CDF, achieving ReLU-like performance with purely rational arithmetic. We introduce t
+Pemilihan fungsi aktivasi memainkan peran penting dalam optimasi dan kinerja jaringan saraf dalam. Meskipun Rectified Linear Unit (ReLU) tetap menjadi pilihan dominan karena kesederhanaan dan efektivitasnya, kurangnya kehalusan dapat menghambat optimasi berbasis gradien dalam arsitektur yang dalam. Dalam karya ini, kami mengusulkan keluarga fungsi aktivasi halus `C^{2N}` yang gerbangnya mengikuti CDF log-logistik, mencapai kinerja seperti ReLU dengan aritmetika rasional murni. Kami memperkenalkan
 
 ---
 
@@ -185,7 +185,7 @@ The choice of activation function plays a crucial role in the optimization and p
 - **Relevance untuk Hermes Agent**: Pemrosesan multimodal/vision, Fine-tuning dan optimisasi model, Evaluasi dan benchmarking
 
 **Abstract:**
-Reservoir computing (RC) is an emerging recurrent neural network architecture that has attracted growing attention for its low training cost and modest hardware requirements. Memristor-based circuits are particularly promising for RC, as their intrinsic dynamics can reduce network size and parameter overhead in tasks such as time-series prediction and image recognition. Although RC has been demonstrated with several memristive devices, a comprehensive evaluation of device-level requirements rema
+Reservoir computing (RC) adalah arsitektur jaringan saraf berulang yang muncul dan telah menarik perhatian yang berkembang karena biaya pelatihan yang rendah dan kebutuhan perangkat keras yang sederhana. Sirkuit berbasis memristor sangat menjanjikan untuk RC, karena dinamika intrinsiknya dapat mengurangi ukuran jaringan dan overhead parameter dalam tugas-tugas seperti prediksi deret waktu dan pengenalan gambar. Meskipun RC telah didemonstrasikan dengan beberapa perangkat memristif, evaluasi komprehensif terhadap persyaratan tingkat perangkat masih
 
 ---
 
