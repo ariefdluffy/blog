@@ -1,7 +1,11 @@
 @import "tailwindcss";
 
+/* Use class-based dark mode instead of prefers-color-scheme */
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme {
-  --color-primary: #6B21A8;
+  --color-primary: #8B5CF6;
+  --color-primary-deep: #6B21A8;
   --color-accent: #06B6D4;
   --color-bg: #FAFAFA;
   --color-bg-alt: #F3F4F6;
@@ -15,6 +19,11 @@
   --color-dark-border: #2D2D35;
   --font-body: 'Inter', system-ui, -apple-system, sans-serif;
   --font-mono: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
+}
+
+/* Light mode uses deep purple for stronger contrast on white bg */
+.light {
+  --color-primary: #6B21A8;
 }
 
 /* Base */
