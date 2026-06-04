@@ -6,6 +6,8 @@ tags: [tech, articles]
 
 # Multi-Agent AI: Dari Desain Material hingga Otomasi Riset — Bagaimana Tim AI Kolaboratif Mengubah Cara Kita Bekerja
 
+*Tanggal: 15 Mei 2026*
+
 ## Ringkasan Eksekutif
 
 Bayangkan memiliki tim riset AI yang bekerja 24/7: satu agen ahli membaca ribuan paper, agen lain menjalankan simulasi fisika, satu lagi menganalisis hasil, dan seorang "manager" AI mengkoordinasi semuanya untuk menghasilkan discovery baru.
